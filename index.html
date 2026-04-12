@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub 热门仓库趋势 | Daily Trending</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>🔥 GitHub 热门仓库趋势</h1>
+            <p class="subtitle">每日更新，追踪开源社区热点</p>
+            <p class="update-time">最后更新：<span id="updateDate">-</span></p>
+        </div>
+        <div class="nav">
+            <a href="https://github.com/bubbleatgit/github-trending-daily" target="_blank">
+                <img src="https://github.githubassets.com/favicons/favicon.svg" alt="GitHub" width="20">
+                查看源码
+            </a>
+        </div>
+    </header>
+
+    <main>
+        <section class="stats-section">
+            <div class="stat-card">
+                <h3>📊 今日统计</h3>
+                <div id="statsSummary">加载中...</div>
+            </div>
+        </section>
+
+        <section class="filter-section">
+            <h3>🔍 语言筛选</h3>
+            <div class="filter-buttons" id="languageFilters">
+                <button class="filter-btn active" data-lang="all">全部</button>
+            </div>
+        </section>
+
+        <section class="trending-section">
+            <h2>📈 热门仓库排行榜</h2>
+            <div class="table-container">
+                <table id="trendingTable">
+                    <thead>
+                        <tr>
+                            <th>排名</th>
+                            <th>仓库</th>
+                            <th>语言</th>
+                            <th>Stars</th>
+                            <th>Forks</th>
+                            <th>今日新增</th>
+                            <th>简介</th>
+                        </tr>
+                    </thead>
+                    <tbody id="trendingBody">
+                        <tr><td colspan="7" class="loading">加载中...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section class="top-growth-section">
+            <h2>🏆 今日增长 TOP 5</h2>
+            <div class="growth-cards" id="growthCards">
+                加载中...
+            </div>
+        </section>
+
+        <section class="insights-section">
+            <h2>💡 趋势洞察</h2>
+            <div id="insightsContent">加载中...</div>
+        </section>
+
+        <section class="language-stats-section">
+            <h2>📊 语言分布</h2>
+            <div class="language-chart" id="languageChart">
+                加载中...
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>
+            数据来源：<a href="https://github.com/trending" target="_blank">github.com/trending</a>
+        </p>
+        <p>
+            由 <a href="https://github.com/bubbleatgit" target="_blank">@bubbleatgit</a> 的 AI Agent 自动生成
+        </p>
+        <p class="copyright">© 2026 GitHub Trending Daily</p>
+    </footer>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
