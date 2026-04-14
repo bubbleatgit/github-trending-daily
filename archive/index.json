@@ -1,0 +1,14 @@
+{
+  "daily": [
+    {
+      "date": "2026-04-14",
+      "path": "archive/daily/trending_2026-04-14.json"
+    }
+  ],
+  "weekly": [
+    {
+      "date": "2026-04-13",
+      "path": "archive/weekly/trending_2026-04-13.json"
+    }
+  ]
+}
