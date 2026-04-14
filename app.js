@@ -29,13 +29,17 @@ const translations = {
 };
 
 // 简单的机器翻译 - 将常见英文描述翻译成中文风格
+function escapeRegExp(string) {
+  return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
 function translateToChinese(text) {
   if (!text || text === "No description" || text === "No description available") {
     return "暂无描述";
   }
   let result = text;
   Object.entries(translations).forEach(([en, zh]) => {
-    const regex = new RegExp(`\b${en}\b`, 'gi');
+    const regex = new RegExp(`\\b${escapeRegExp(en)}\\b`, 'gi');
     result = result.replace(regex, zh);
   });
   result = result.replace(/\s+/g, ' ').trim();
