@@ -1,305 +1,305 @@
 {
-  "date": "2026-04-12",
+  "date": "2026-04-14",
   "repos": [
-    {
-      "name": "farzaa/clicky",
-      "description": "No description available",
-      "language": "Swift",
-      "stars": 3781,
-      "forks": 669,
-      "todayStars": 87,
-      "url": "https://github.com/farzaa/clicky",
-      "avatar": "https://avatars.githubusercontent.com/u/15614124?v=4"
-    },
-    {
-      "name": "xixu-me/awesome-persona-distill-skills",
-      "description": "同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commemorative scenes, and methodological perspectives",
-      "language": "JavaScript",
-      "stars": 3183,
-      "forks": 359,
-      "todayStars": 81,
-      "url": "https://github.com/xixu-me/awesome-persona-distill-skills",
-      "avatar": "https://avatars.githubusercontent.com/u/109734945?v=4"
-    },
-    {
-      "name": "alchaincyf/hermes-agent-orange-book",
-      "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
-      "language": "Unknown",
-      "stars": 1881,
-      "forks": 206,
-      "todayStars": 68,
-      "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
-      "avatar": "https://avatars.githubusercontent.com/u/127714341?v=4"
-    },
-    {
-      "name": "KKKKhazix/khazix-skills",
-      "description": "数字生命卡兹克开源的 AI Skills 合集",
-      "language": "Unknown",
-      "stars": 1590,
-      "forks": 337,
-      "todayStars": 65,
-      "url": "https://github.com/KKKKhazix/khazix-skills",
-      "avatar": "https://avatars.githubusercontent.com/u/239590580?v=4"
-    },
-    {
-      "name": "mattmireles/gemma-tuner-multimodal",
-      "description": "Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.",
-      "language": "Python",
-      "stars": 1196,
-      "forks": 76,
-      "todayStars": 61,
-      "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
-      "avatar": "https://avatars.githubusercontent.com/u/4949789?v=4"
-    },
-    {
-      "name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-      "language": "Shell",
-      "stars": 1000,
-      "forks": 77,
-      "todayStars": 60,
-      "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-      "avatar": "https://avatars.githubusercontent.com/u/251871046?v=4"
-    },
-    {
-      "name": "phuryn/claude-usage",
-      "description": "A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.",
-      "language": "Python",
-      "stars": 852,
-      "forks": 120,
-      "todayStars": 58,
-      "url": "https://github.com/phuryn/claude-usage",
-      "avatar": "https://avatars.githubusercontent.com/u/7837354?v=4"
-    },
-    {
-      "name": "wxtsky/CodeIsland",
-      "description": "No description available",
-      "language": "Swift",
-      "stars": 835,
-      "forks": 96,
-      "todayStars": 58,
-      "url": "https://github.com/wxtsky/CodeIsland",
-      "avatar": "https://avatars.githubusercontent.com/u/79189721?v=4"
-    },
-    {
-      "name": "adamlyttleapps/claude-skill-app-onboarding-questionnaire",
-      "description": " A Claude Code skill that designs and builds high-converting questionnaire-style app onboarding flows — modelled    on proven conversion patterns from top subscription apps like Mob, Headspace and Noom",
-      "language": "Unknown",
-      "stars": 741,
-      "forks": 90,
-      "todayStars": 57,
-      "url": "https://github.com/adamlyttleapps/claude-skill-app-onboarding-questionnaire",
-      "avatar": "https://avatars.githubusercontent.com/u/40189502?v=4"
-    },
-    {
-      "name": "nashsu/llm_wiki",
-      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "language": "TypeScript",
-      "stars": 718,
-      "forks": 90,
-      "todayStars": 57,
-      "url": "https://github.com/nashsu/llm_wiki",
-      "avatar": "https://avatars.githubusercontent.com/u/2127280?v=4"
-    },
-    {
-      "name": "xtclovver/RKNHardering",
-      "description": "No description available",
-      "language": "Kotlin",
-      "stars": 681,
-      "forks": 34,
-      "todayStars": 56,
-      "url": "https://github.com/xtclovver/RKNHardering",
-      "avatar": "https://avatars.githubusercontent.com/u/44809071?v=4"
-    },
-    {
-      "name": "tmstack/awesome-persona-skills",
-      "description": "同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  ",
-      "language": "Unknown",
-      "stars": 665,
-      "forks": 92,
-      "todayStars": 56,
-      "url": "https://github.com/tmstack/awesome-persona-skills",
-      "avatar": "https://avatars.githubusercontent.com/u/56751502?v=4"
-    },
-    {
-      "name": "QLHazyCoder/codex-oauth-automation-extension",
-      "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
-      "language": "JavaScript",
-      "stars": 661,
-      "forks": 132,
-      "todayStars": 56,
-      "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
-      "avatar": "https://avatars.githubusercontent.com/u/109800873?v=4"
-    },
-    {
-      "name": "alchaincyf/x-mentor-skill",
-      "description": "X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill",
-      "language": "Unknown",
-      "stars": 596,
-      "forks": 116,
-      "todayStars": 55,
-      "url": "https://github.com/alchaincyf/x-mentor-skill",
-      "avatar": "https://avatars.githubusercontent.com/u/127714341?v=4"
-    },
-    {
-      "name": "joeynyc/hermes-hudui",
-      "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
-      "language": "Python",
-      "stars": 577,
-      "forks": 57,
-      "todayStars": 55,
-      "url": "https://github.com/joeynyc/hermes-hudui",
-      "avatar": "https://avatars.githubusercontent.com/u/17919866?v=4"
-    },
-    {
-      "name": "obdev/littlesnitch-linux",
-      "description": "Open Source components of Little Snitch for Linux",
-      "language": "Rust",
-      "stars": 566,
-      "forks": 16,
-      "todayStars": 55,
-      "url": "https://github.com/obdev/littlesnitch-linux",
-      "avatar": "https://avatars.githubusercontent.com/u/2912473?v=4"
-    },
-    {
-      "name": "coleam00/claude-memory-compiler",
-      "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
-      "language": "Python",
-      "stars": 564,
-      "forks": 148,
-      "todayStars": 55,
-      "url": "https://github.com/coleam00/claude-memory-compiler",
-      "avatar": "https://avatars.githubusercontent.com/u/47287758?v=4"
-    },
-    {
-      "name": "brooks376/Happy-Horse-1.0",
-      "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
-      "language": "Unknown",
-      "stars": 545,
-      "forks": 49,
-      "todayStars": 55,
-      "url": "https://github.com/brooks376/Happy-Horse-1.0",
-      "avatar": "https://avatars.githubusercontent.com/u/193594001?v=4"
-    },
-    {
-      "name": "whwangovo/pyre-code",
-      "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
-      "language": "Python",
-      "stars": 527,
-      "forks": 53,
-      "todayStars": 55,
-      "url": "https://github.com/whwangovo/pyre-code",
-      "avatar": "https://avatars.githubusercontent.com/u/79965746?v=4"
-    },
-    {
-      "name": "AgriciDaniel/claude-obsidian",
-      "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
-      "language": "Shell",
-      "stars": 513,
-      "forks": 48,
-      "todayStars": 55,
-      "url": "https://github.com/AgriciDaniel/claude-obsidian",
-      "avatar": "https://avatars.githubusercontent.com/u/223140489?v=4"
-    },
-    {
-      "name": "agents-io/PokeClaw",
-      "description": "PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.",
-      "language": "Kotlin",
-      "stars": 481,
-      "forks": 63,
-      "todayStars": 54,
-      "url": "https://github.com/agents-io/PokeClaw",
-      "avatar": "https://avatars.githubusercontent.com/u/269032195?v=4"
-    },
-    {
-      "name": "kzhrknt/awesome-design-md-jp",
-      "description": "日本語UIをAIエージェントに正しくつくらせるためのDESIGN.md集。Japanese DESIGN.md collection for AI agents — extending Google Stitch format with CJK typography.",
-      "language": "HTML",
-      "stars": 374,
-      "forks": 24,
-      "todayStars": 53,
-      "url": "https://github.com/kzhrknt/awesome-design-md-jp",
-      "avatar": "https://avatars.githubusercontent.com/u/1807869?v=4"
-    },
-    {
-      "name": "idawnlight/ShichiZip",
-      "description": "The 7-Zip derivative intended for macOS",
-      "language": "Swift",
-      "stars": 373,
-      "forks": 10,
-      "todayStars": 53,
-      "url": "https://github.com/idawnlight/ShichiZip",
-      "avatar": "https://avatars.githubusercontent.com/u/18070833?v=4"
-    },
-    {
-      "name": "AMAP-ML/SkillClaw",
-      "description": "Let Skills Evolve Collectively with Agentic Evolver ",
-      "language": "Python",
-      "stars": 366,
-      "forks": 52,
-      "todayStars": 53,
-      "url": "https://github.com/AMAP-ML/SkillClaw",
-      "avatar": "https://avatars.githubusercontent.com/u/202896035?v=4"
-    },
-    {
-      "name": "cherepavel/VPN-Detector",
-      "description": "Android app for detecting VPN usage and network tunneling signals.",
-      "language": "Kotlin",
-      "stars": 347,
-      "forks": 18,
-      "todayStars": 53,
-      "url": "https://github.com/cherepavel/VPN-Detector",
-      "avatar": "https://avatars.githubusercontent.com/u/24592649?v=4"
-    },
-    {
-      "name": "NyxTides/SimpleAuthFlow",
-      "description": "A streamlined Chrome extension for the ChatGPT OAuth flow",
-      "language": "JavaScript",
-      "stars": 327,
-      "forks": 89,
-      "todayStars": 53,
-      "url": "https://github.com/NyxTides/SimpleAuthFlow",
-      "avatar": "https://avatars.githubusercontent.com/u/205922613?v=4"
-    },
-    {
-      "name": "loop-uh/yourvpndead",
-      "description": "Детекция и обнаружение айпи у ВПН серверов VLESS/xray/sing-box через локальный SOCKS5 уязвимость",
-      "language": "Kotlin",
-      "stars": 314,
-      "forks": 8,
-      "todayStars": 53,
-      "url": "https://github.com/loop-uh/yourvpndead",
-      "avatar": "https://avatars.githubusercontent.com/u/195583929?v=4"
-    },
-    {
-      "name": "UnluckyNinja/SBTI-test",
-      "description": "注意建立这个repo只是因为网页自身就是全部源码，原作者并未声明license所以本repo也不包含license，一切行为请自行斟酌，不要给原作者添麻烦。 原作者：B站@蛆肉儿串儿",
-      "language": "HTML",
-      "stars": 315,
-      "forks": 262,
-      "todayStars": 53,
-      "url": "https://github.com/UnluckyNinja/SBTI-test",
-      "avatar": "https://avatars.githubusercontent.com/u/1270155?v=4"
-    },
-    {
-      "name": "DLYuanGod/MegaTrain",
-      "description": "No description available",
-      "language": "Python",
-      "stars": 313,
-      "forks": 27,
-      "todayStars": 53,
-      "url": "https://github.com/DLYuanGod/MegaTrain",
-      "avatar": "https://avatars.githubusercontent.com/u/96673402?v=4"
-    },
-    {
-      "name": "leezythu/maoxuan-skill",
-      "description": "毛选.skill — 让毛泽东的思维框架帮你分析问题、制定策略、看透本质。7个核心心智模型 · 10条决策启发式 · 完整表达DNA。不是复读语录，是用他的认知框架帮你看问题。",
-      "language": "Unknown",
-      "stars": 311,
-      "forks": 43,
-      "todayStars": 53,
-      "url": "https://github.com/leezythu/maoxuan-skill",
-      "avatar": "https://avatars.githubusercontent.com/u/41156182?v=4"
-    }
-  ]
+  {
+    "name": "alchaincyf/hermes-agent-orange-book",
+    "description": "Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南",
+    "language": "Unknown",
+    "stars": 2414,
+    "forks": 253,
+    "todayStars": 74,
+    "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+    "avatar": "https://avatars.githubusercontent.com/u/127714341?v=4"
+  },
+  {
+    "name": "yizhiyanhua-ai/fireworks-tech-graph",
+    "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
+    "language": "Python",
+    "stars": 2304,
+    "forks": 181,
+    "todayStars": 73,
+    "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+    "avatar": "https://avatars.githubusercontent.com/u/251871046?v=4"
+  },
+  {
+    "name": "momenbasel/PureMac",
+    "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
+    "language": "Swift",
+    "stars": 1390,
+    "forks": 78,
+    "todayStars": 63,
+    "url": "https://github.com/momenbasel/PureMac",
+    "avatar": "https://avatars.githubusercontent.com/u/8724766?v=4"
+  },
+  {
+    "name": "QLHazyCoder/codex-oauth-automation-extension",
+    "description": "Chrome扩展：支持OpenAI OAuth注册、验证码获取、CPA回调验证与自动恢复",
+    "language": "JavaScript",
+    "stars": 1347,
+    "forks": 292,
+    "todayStars": 63,
+    "url": "https://github.com/QLHazyCoder/codex-oauth-automation-extension",
+    "avatar": "https://avatars.githubusercontent.com/u/109800873?v=4"
+  },
+  {
+    "name": "nashsu/llm_wiki",
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+    "language": "TypeScript",
+    "stars": 1265,
+    "forks": 134,
+    "todayStars": 62,
+    "url": "https://github.com/nashsu/llm_wiki",
+    "avatar": "https://avatars.githubusercontent.com/u/2127280?v=4"
+  },
+  {
+    "name": "joeynyc/hermes-hudui",
+    "description": "Web UI consciousness monitor for Hermes — the AI agent with persistent memory",
+    "language": "TypeScript",
+    "stars": 862,
+    "forks": 90,
+    "todayStars": 58,
+    "url": "https://github.com/joeynyc/hermes-hudui",
+    "avatar": "https://avatars.githubusercontent.com/u/17919866?v=4"
+  },
+  {
+    "name": "vyfor/rattles",
+    "description": "🪇 Minimal terminal spinners for Rust",
+    "language": "Rust",
+    "stars": 841,
+    "forks": 16,
+    "todayStars": 58,
+    "url": "https://github.com/vyfor/rattles",
+    "avatar": "https://avatars.githubusercontent.com/u/92883017?v=4"
+  },
+  {
+    "name": "hexiecs/talk-normal",
+    "description": "Make any LLM talk like a normal person. A system prompt that removes AI slop.",
+    "language": "Shell",
+    "stars": 794,
+    "forks": 19,
+    "todayStars": 57,
+    "url": "https://github.com/hexiecs/talk-normal",
+    "avatar": "https://avatars.githubusercontent.com/u/12725406?v=4"
+  },
+  {
+    "name": "whwangovo/pyre-code",
+    "description": "A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.",
+    "language": "Python",
+    "stars": 678,
+    "forks": 62,
+    "todayStars": 56,
+    "url": "https://github.com/whwangovo/pyre-code",
+    "avatar": "https://avatars.githubusercontent.com/u/79965746?v=4"
+  },
+  {
+    "name": "obdev/littlesnitch-linux",
+    "description": "Open Source components of Little Snitch for Linux",
+    "language": "Rust",
+    "stars": 677,
+    "forks": 23,
+    "todayStars": 56,
+    "url": "https://github.com/obdev/littlesnitch-linux",
+    "avatar": "https://avatars.githubusercontent.com/u/2912473?v=4"
+  },
+  {
+    "name": "sterlingcrispin/nothing-ever-happens",
+    "description": "No description available",
+    "language": "Python",
+    "stars": 638,
+    "forks": 58,
+    "todayStars": 56,
+    "url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "avatar": "https://avatars.githubusercontent.com/u/2976761?v=4"
+  },
+  {
+    "name": "OpenMOSS/MOSS-TTS-Nano",
+    "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
+    "language": "Python",
+    "stars": 635,
+    "forks": 49,
+    "todayStars": 56,
+    "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+    "avatar": "https://avatars.githubusercontent.com/u/156300419?v=4"
+  },
+  {
+    "name": "alchaincyf/obsidian-ai-orange-book",
+    "description": "Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑",
+    "language": "Unknown",
+    "stars": 594,
+    "forks": 60,
+    "todayStars": 55,
+    "url": "https://github.com/alchaincyf/obsidian-ai-orange-book",
+    "avatar": "https://avatars.githubusercontent.com/u/127714341?v=4"
+  },
+  {
+    "name": "Mouseww/anything-analyzer",
+    "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档",
+    "language": "TypeScript",
+    "stars": 582,
+    "forks": 168,
+    "todayStars": 55,
+    "url": "https://github.com/Mouseww/anything-analyzer",
+    "avatar": "https://avatars.githubusercontent.com/u/28473201?v=4"
+  },
+  {
+    "name": "hamen/material-3-skill",
+    "description": "Material Design 3 skill for Claude Code — 30+ components, design tokens, theming, responsive layout, and MD3 compliance audit",
+    "language": "Unknown",
+    "stars": 575,
+    "forks": 31,
+    "todayStars": 55,
+    "url": "https://github.com/hamen/material-3-skill",
+    "avatar": "https://avatars.githubusercontent.com/u/19003?v=4"
+  },
+  {
+    "name": "brooks376/Happy-Horse-1.0",
+    "description": "Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.",
+    "language": "Unknown",
+    "stars": 561,
+    "forks": 55,
+    "todayStars": 55,
+    "url": "https://github.com/brooks376/Happy-Horse-1.0",
+    "avatar": "https://avatars.githubusercontent.com/u/193594001?v=4"
+  },
+  {
+    "name": "AgentSeal/codeburn",
+    "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
+    "language": "TypeScript",
+    "stars": 548,
+    "forks": 43,
+    "todayStars": 55,
+    "url": "https://github.com/AgentSeal/codeburn",
+    "avatar": "https://avatars.githubusercontent.com/u/265224789?v=4"
+  },
+  {
+    "name": "AMAP-ML/SkillClaw",
+    "description": "Let Skills Evolve Collectively with Agentic Evolver ",
+    "language": "Python",
+    "stars": 529,
+    "forks": 61,
+    "todayStars": 55,
+    "url": "https://github.com/AMAP-ML/SkillClaw",
+    "avatar": "https://avatars.githubusercontent.com/u/202896035?v=4"
+  },
+  {
+    "name": "patterniha/SNI-Spoofing",
+    "description": "Bypass DPI with IP/TCP-Header manipulation",
+    "language": "Python",
+    "stars": 511,
+    "forks": 62,
+    "todayStars": 55,
+    "url": "https://github.com/patterniha/SNI-Spoofing",
+    "avatar": "https://avatars.githubusercontent.com/u/71074308?v=4"
+  },
+  {
+    "name": "retlehs/quien",
+    "description": "A better WHOIS lookup tool",
+    "language": "Go",
+    "stars": 498,
+    "forks": 12,
+    "todayStars": 54,
+    "url": "https://github.com/retlehs/quien",
+    "avatar": "https://avatars.githubusercontent.com/u/115911?v=4"
+  },
+  {
+    "name": "alchaincyf/darwin-skill",
+    "description": "达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.",
+    "language": "HTML",
+    "stars": 474,
+    "forks": 58,
+    "todayStars": 54,
+    "url": "https://github.com/alchaincyf/darwin-skill",
+    "avatar": "https://avatars.githubusercontent.com/u/127714341?v=4"
+  },
+  {
+    "name": "yaojingang/GEOFlow",
+    "description": "Open-source GEO content production system with AI tasks, review workflow, and publishing.",
+    "language": "PHP",
+    "stars": 436,
+    "forks": 86,
+    "todayStars": 54,
+    "url": "https://github.com/yaojingang/GEOFlow",
+    "avatar": "https://avatars.githubusercontent.com/u/266242792?v=4"
+  },
+  {
+    "name": "Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "description": "🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.",
+    "language": "Python",
+    "stars": 427,
+    "forks": 31,
+    "todayStars": 54,
+    "url": "https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7",
+    "avatar": "https://avatars.githubusercontent.com/u/85532891?v=4"
+  },
+  {
+    "name": "cnitlrt/AutoTeam",
+    "description": "ChatGPT Team 账号自动轮转管理 - Codex 额度监控、自动换号、CPA 认证同步",
+    "language": "Python",
+    "stars": 404,
+    "forks": 85,
+    "todayStars": 54,
+    "url": "https://github.com/cnitlrt/AutoTeam",
+    "avatar": "https://avatars.githubusercontent.com/u/60732685?v=4"
+  },
+  {
+    "name": "dominikmartn/ProgressiveBlurHeader",
+    "description": "Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped.",
+    "language": "Swift",
+    "stars": 383,
+    "forks": 15,
+    "todayStars": 53,
+    "url": "https://github.com/dominikmartn/ProgressiveBlurHeader",
+    "avatar": "https://avatars.githubusercontent.com/u/4389660?v=4"
+  },
+  {
+    "name": "UnluckyNinja/SBTI-test",
+    "description": "注意建立这个repo只是因为网页自身就是全部源码，原作者并未声明license所以本repo也不包含license，一切行为请自行斟酌，不要给原作者添麻烦。 原作者：B站@蛆肉儿串儿",
+    "language": "HTML",
+    "stars": 378,
+    "forks": 308,
+    "todayStars": 53,
+    "url": "https://github.com/UnluckyNinja/SBTI-test",
+    "avatar": "https://avatars.githubusercontent.com/u/1270155?v=4"
+  },
+  {
+    "name": "tianxingleo/ACGTI",
+    "description": "ACG Type Indicator - MBTI inspired anime persona quiz",
+    "language": "TypeScript",
+    "stars": 370,
+    "forks": 24,
+    "todayStars": 53,
+    "url": "https://github.com/tianxingleo/ACGTI",
+    "avatar": "https://avatars.githubusercontent.com/u/237200863?v=4"
+  },
+  {
+    "name": "lzhgus/Capso",
+    "description": "Open-source screenshot and screen recording for macOS. The free, native alternative to CleanShot X. Built with Swift 6.0 and SwiftUI.",
+    "language": "Swift",
+    "stars": 367,
+    "forks": 18,
+    "todayStars": 53,
+    "url": "https://github.com/lzhgus/Capso",
+    "avatar": "https://avatars.githubusercontent.com/u/5875125?v=4"
+  },
+  {
+    "name": "renatoworks/3dsvg",
+    "description": "The easiest way to turn SVGs into interactive React 3D components",
+    "language": "TypeScript",
+    "stars": 366,
+    "forks": 56,
+    "todayStars": 53,
+    "url": "https://github.com/renatoworks/3dsvg",
+    "avatar": "https://avatars.githubusercontent.com/u/130500381?v=4"
+  },
+  {
+    "name": "jure/webphysics",
+    "description": "WebGPU physics engine based on the AVBD solver",
+    "language": "TypeScript",
+    "stars": 337,
+    "forks": 6,
+    "todayStars": 53,
+    "url": "https://github.com/jure/webphysics",
+    "avatar": "https://avatars.githubusercontent.com/u/238667?v=4"
+  }
+]
 }
