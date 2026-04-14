@@ -196,10 +196,10 @@ function renderStats() {
   const title = currentType === 'daily' ? '今日统计' : '本周统计';
   document.querySelector('.stat-card h3').textContent = `📊 ${title}`;
   document.getElementById('statsSummary').innerHTML =
-    `<div class="bg-white p-4 rounded-lg text-center"><span class="block text-3xl font-bold text-indigo-600">${totalRepos}</span><span class="text-gray-600">热门仓库</span></div>
-     <div class="bg-white p-4 rounded-lg text-center"><span class="block text-3xl font-bold text-indigo-600">${formatNumber(totalStars)}</span><span class="text-gray-600">总 Stars</span></div>
-     <div class="bg-white p-4 rounded-lg text-center"><span class="block text-3xl font-bold text-indigo-600">+${formatNumber(totalGrowth)}</span><span class="text-gray-600">${currentType === 'daily' ? '今日新增' : '本周新增'}</span></div>
-     <div class="bg-white p-4 rounded-lg text-center"><span class="block text-3xl font-bold text-indigo-600">${languages.length}</span><span class="text-gray-600">编程语言</span></div>`;
+    `<div class="bg-gradient-to-br from-white to-gray-50 p-4 rounded-lg text-center card-glow transition-all"><span class="block text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">${totalRepos}</span><span class="text-gray-600">热门仓库</span></div>
+     <div class="bg-gradient-to-br from-white to-gray-50 p-4 rounded-lg text-center card-glow transition-all"><span class="block text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">${formatNumber(totalStars)}</span><span class="text-gray-600">总 Stars</span></div>
+     <div class="bg-gradient-to-br from-white to-gray-50 p-4 rounded-lg text-center card-glow transition-all"><span class="block text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-green-500 to-emerald-600">+${formatNumber(totalGrowth)}</span><span class="text-gray-600">${currentType === 'daily' ? '今日新增' : '本周新增'}</span></div>
+     <div class="bg-gradient-to-br from-white to-gray-50 p-4 rounded-lg text-center card-glow transition-all"><span class="block text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">${languages.length}</span><span class="text-gray-600">编程语言</span></div>`;
 }
 
 function renderLanguageFilters() {
@@ -250,7 +250,7 @@ function renderGrowthCards() {
   const title = currentType === 'daily' ? '今日增长 TOP 5' : '本周增长 TOP 5';
   document.querySelector('section.top-growth-section h2').textContent = `🏆 ${title}`;
   document.getElementById('growthCards').innerHTML = top.map((r,i)=>
-    `<div class="bg-gray-50 p-4 rounded-lg"><b class="text-gray-500">#${i+1}</b> <a href="${r.url}" target="_blank" class="text-indigo-600 hover:underline font-medium">${r.name}</a> <span class="text-green-600 font-semibold">+${formatNumber(r.todayStars||0)} ⭐</span></div>`
+    `<div class="bg-gradient-to-br from-gray-50 to-gray-100 p-4 rounded-lg card-glow transition-all"><b class="text-gray-500">#${i+1}</b> <a href="${r.url}" target="_blank" class="text-indigo-600 hover:underline font-medium">${r.name}</a> <span class="text-green-600 font-semibold">+${formatNumber(r.todayStars||0)} ⭐</span></div>`
   ).join('');
 }
 
@@ -261,7 +261,7 @@ function renderInsights() {
   repos.forEach(r=>{const l = r.language||'Unknown'; langStats[l]=(langStats[l]||0)+1});
   const topLang = Object.entries(langStats).sort((a,b)=>b[1]-a[1])[0];
   const avgGrowth = Math.round(repos.reduce((s,r)=>s+(r.todayStars||0),0)/repos.length);
-  document.getElementById('insightsContent').innerHTML = `<div class="flex flex-col md:flex-row gap-4"><div class="flex-1 p-4 bg-gray-50 rounded-lg"><p><strong>最热门语言：</strong>${topLang[0]} (${topLang[1]}个仓库)</p></div><div class="flex-1 p-4 bg-gray-50 rounded-lg"><p><strong>平均每个仓库新增星标：</strong>${avgGrowth}</p></div></div>`;
+  document.getElementById('insightsContent').innerHTML = `<div class="flex flex-col md:flex-row gap-4"><div class="flex-1 p-4 bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg card-glow transition-all"><p><strong>最热门语言：</strong>${topLang[0]} (${topLang[1]}个仓库)</p></div><div class="flex-1 p-4 bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg card-glow transition-all"><p><strong>平均每个仓库新增星标：</strong>${avgGrowth}</p></div></div>`;
 }
 
 function renderLanguageChart() {
