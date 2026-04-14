@@ -6,7 +6,7 @@
     "name": "CITGuru/openduck",
     "description": "Distributed DuckDB - dual execution and differential storage",
     "language": "C++",
-    "stars": 177,
+    "stars": 184,
     "forks": 3,
     "todayStars": 23,
     "url": "https://github.com/CITGuru/openduck",
@@ -16,7 +16,7 @@
     "name": "5ec1cff/FuseFixer",
     "description": "No description available",
     "language": "C",
-    "stars": 94,
+    "stars": 96,
     "forks": 8,
     "todayStars": 21,
     "url": "https://github.com/5ec1cff/FuseFixer",
@@ -26,7 +26,7 @@
     "name": "ChatPRD/tradclaw",
     "description": "AI openclaw mom and household manager for agentic parenting",
     "language": "Unknown",
-    "stars": 88,
+    "stars": 90,
     "forks": 7,
     "todayStars": 21,
     "url": "https://github.com/ChatPRD/tradclaw",
@@ -36,7 +36,7 @@
     "name": "earendil-works/pi-review",
     "description": "A review extension for Pi",
     "language": "TypeScript",
-    "stars": 68,
+    "stars": 70,
     "forks": 2,
     "todayStars": 21,
     "url": "https://github.com/earendil-works/pi-review",
@@ -76,7 +76,7 @@
     "name": "bchao1/paper-finder",
     "description": "Claude skill for finding ML research papers.",
     "language": "Unknown",
-    "stars": 27,
+    "stars": 29,
     "forks": 4,
     "todayStars": 20,
     "url": "https://github.com/bchao1/paper-finder",
@@ -96,7 +96,7 @@
     "name": "irinabuht12-oss/email-campaigns-claude",
     "description": "No description available",
     "language": "Unknown",
-    "stars": 24,
+    "stars": 25,
     "forks": 3,
     "todayStars": 20,
     "url": "https://github.com/irinabuht12-oss/email-campaigns-claude",
@@ -136,7 +136,7 @@
     "name": "RoggeOhta/amadeus-in-shell",
     "description": "No description available",
     "language": "Python",
-    "stars": 14,
+    "stars": 15,
     "forks": 1,
     "todayStars": 20,
     "url": "https://github.com/RoggeOhta/amadeus-in-shell",
@@ -153,6 +153,16 @@
     "avatar": "https://avatars.githubusercontent.com/u/208013145?v=4"
   },
   {
+    "name": "vietnh1009/Naruto",
+    "description": "No description available",
+    "language": "HTML",
+    "stars": 14,
+    "forks": 6,
+    "todayStars": 20,
+    "url": "https://github.com/vietnh1009/Naruto",
+    "avatar": "https://avatars.githubusercontent.com/u/47221207?v=4"
+  },
+  {
     "name": "eimg/book-order-platform-SKILL",
     "description": "Implements a book order system with a Vite React storefront (React Router,   TanStack Query) and an Express + Prisma + SQLite API",
     "language": "Unknown",
@@ -161,16 +171,6 @@
     "todayStars": 20,
     "url": "https://github.com/eimg/book-order-platform-SKILL",
     "avatar": "https://avatars.githubusercontent.com/u/339304?v=4"
-  },
-  {
-    "name": "vietnh1009/Naruto",
-    "description": "No description available",
-    "language": "HTML",
-    "stars": 13,
-    "forks": 6,
-    "todayStars": 20,
-    "url": "https://github.com/vietnh1009/Naruto",
-    "avatar": "https://avatars.githubusercontent.com/u/47221207?v=4"
   },
   {
     "name": "Jian-Lang/awesome-modality-missing-learning",
@@ -213,6 +213,16 @@
     "avatar": "https://avatars.githubusercontent.com/u/258388116?v=4"
   },
   {
+    "name": "tagir253/macos-ai-assistant",
+    "description": "No description available",
+    "language": "JavaScript",
+    "stars": 11,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/tagir253/macos-ai-assistant",
+    "avatar": "https://avatars.githubusercontent.com/u/275474659?v=4"
+  },
+  {
     "name": "Toni-xie/Trading-skills",
     "description": "Skills for all my trading idea",
     "language": "Python",
@@ -223,6 +233,16 @@
     "avatar": "https://avatars.githubusercontent.com/u/64985167?v=4"
   },
   {
+    "name": "peepingood/clipmind-ai-macos",
+    "description": "No description available",
+    "language": "JavaScript",
+    "stars": 11,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/peepingood/clipmind-ai-macos",
+    "avatar": "https://avatars.githubusercontent.com/u/275472312?v=4"
+  },
+  {
     "name": "Sim2Reason/Sim2Reason",
     "description": "Sim2Reason: Solving Physics Olympiad via Reinforcement Learning on Physics Simulators.  We present a method for turning physics simulators into scalable generators of question–answer pairs for improving LLM physical reasoning.",
     "language": "Python",
@@ -231,6 +251,16 @@
     "todayStars": 20,
     "url": "https://github.com/Sim2Reason/Sim2Reason",
     "avatar": "https://avatars.githubusercontent.com/u/265008810?v=4"
+  },
+  {
+    "name": "hyyhf/langgraph-book-code",
+    "description": "《LangGraph AI智能体开发实战》一书的所有配套代码",
+    "language": "Python",
+    "stars": 10,
+    "forks": 1,
+    "todayStars": 20,
+    "url": "https://github.com/hyyhf/langgraph-book-code",
+    "avatar": "https://avatars.githubusercontent.com/u/17477844?v=4"
   },
   {
     "name": "glebkudr/zip_context",
@@ -271,36 +301,6 @@
     "todayStars": 20,
     "url": "https://github.com/zhuzhiqiang18/local-discovery",
     "avatar": "https://avatars.githubusercontent.com/u/16205739?v=4"
-  },
-  {
-    "name": "Jsnzkpg/email",
-    "description": "裤佬临时邮箱，完全免费无需注册登录，自动加载随机邮箱且可一键更换，邮件不做保留，阅后即焚隐私安全，内置了代理加速保证稳定性",
-    "language": "HTML",
-    "stars": 9,
-    "forks": 2,
-    "todayStars": 20,
-    "url": "https://github.com/Jsnzkpg/email",
-    "avatar": "https://avatars.githubusercontent.com/u/86181487?v=4"
-  },
-  {
-    "name": "rohan-chand-m-01/Quantum-PQC-Resources",
-    "description": "Happy World Quantum Day . On this Day I like to share to Free sources that i found through entire internet on behalf of Qrit.",
-    "language": "Unknown",
-    "stars": 9,
-    "forks": 1,
-    "todayStars": 20,
-    "url": "https://github.com/rohan-chand-m-01/Quantum-PQC-Resources",
-    "avatar": "https://avatars.githubusercontent.com/u/234915196?v=4"
-  },
-  {
-    "name": "hyyhf/langgraph-book-code",
-    "description": "《LangGraph AI智能体开发实战》一书的所有配套代码",
-    "language": "Python",
-    "stars": 8,
-    "forks": 1,
-    "todayStars": 20,
-    "url": "https://github.com/hyyhf/langgraph-book-code",
-    "avatar": "https://avatars.githubusercontent.com/u/17477844?v=4"
   }
 ]
 }
