@@ -1,0 +1,41 @@
+name: Update Trending Data
+
+# 每天 UTC 时间 0 点（北京时间 8 点）自动更新
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  # 支持手动触发
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        # 抓取不需要额外依赖，标准库足够
+        run: |
+          chmod +x ./fetch-trending.sh
+          chmod +x ./fetch_trending.py
+          chmod +x ./generate_index.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run update
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: ./fetch-trending.sh
