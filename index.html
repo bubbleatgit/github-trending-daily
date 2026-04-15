@@ -19,26 +19,7 @@
             inset: -2px;
             z-index: -1;
             border-radius: 1rem;
-            background: linear-gradient(45deg, #667eea, #764ba2, #f093fb, #f5576c, #4facfe, #00f2fe);
-            background-size: 400% 400%;
-            animation: gradientShift 8s ease infinite;
-        }
-        @keyframes gradientShift {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
-        }
-        .ai-gradient-bg {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 25%, #f093fb 50%, #f5576c 75%, #4facfe 100%);
-            background-size: 400% 400%;
-            animation: gradientShift 12s ease infinite;
-        }
-        .float-animation {
-            animation: float 6s ease-in-out infinite;
-        }
-        @keyframes float {
-            0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-10px); }
+            background: linear-gradient(135deg, #667eea, #764ba2);
         }
         .card-glow:hover {
             box-shadow: 0 0 20px rgba(102, 126, 234, 0.4);
@@ -47,11 +28,11 @@
         }
     </style>
 </head>
-<body class="bg-gradient-to-br from-slate-50 via-purple-50 to-blue-50 text-gray-900 min-h-screen">
-    <header class="ai-gradient-bg text-white py-12 px-4 relative overflow-hidden">
+<body class="bg-gray-50 text-gray-900 min-h-screen">
+    <header class="bg-gradient-to-r from-indigo-500 to-purple-600 text-white py-12 px-4 relative overflow-hidden">
         <div class="absolute inset-0 bg-black/10"></div>
         <div class="max-w-6xl mx-auto text-center relative z-10">
-            <h1 class="text-4xl md:text-6xl font-bold mb-4 float-animation">🔥 GitHub 热门仓库趋势</h1>
+            <h1 class="text-4xl md:text-6xl font-bold mb-4">🔥 GitHub 热门仓库趋势</h1>
             <p class="text-xl opacity-95 mb-6">每日自动更新，追踪开源社区热点</p>
             <p class="text-sm opacity-90">最后更新：<span id="updateDate" class="font-semibold bg-white/20 px-3 py-1 rounded-full">-</span></p>
         </div>
@@ -97,7 +78,7 @@
 
         <!-- 榜单表格 -->
         <section class="ai-gradient-border p-6 mb-8 bg-white">
-            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-gray-200 bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">📈 热门仓库排行榜</h2>
+            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-gray-200 text-gray-800">📈 热门仓库排行榜</h2>
             <div class="overflow-x-auto">
                 <table class="w-full border-collapse">
                     <thead>
@@ -120,7 +101,7 @@
 
         <!-- 增长 TOP 5 -->
         <section class="ai-gradient-border p-6 mb-8 bg-white">
-            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-gray-200 bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">🏆 增长 TOP 5</h2>
+            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-gray-200 text-gray-800">🏆 增长 TOP 5</h2>
             <div class="grid grid-cols-1 md:grid-cols-5 gap-4 growth-cards" id="growthCards">
                 加载中...
             </div>
@@ -128,13 +109,13 @@
 
         <!-- 趋势洞察 -->
         <section class="ai-gradient-border p-6 mb-8 bg-white">
-            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-gray-200 bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">💡 趋势洞察</h2>
+            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-gray-200 text-gray-800">💡 趋势洞察</h2>
             <div id="insightsContent">加载中...</div>
         </section>
 
         <!-- 语言分布 -->
         <section class="ai-gradient-border p-6 mb-8 bg-white">
-            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-gray-200 bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">📊 语言分布</h2>
+            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-gray-200 text-gray-800">📊 语言分布</h2>
             <div class="space-y-3 language-chart" id="languageChart">
                 加载中...
             </div>
