@@ -1,14 +1,14 @@
 :root {
-    --primary: #0366d6;
-    --success: #28a745;
-    --warning: #f9a825;
-    --danger: #d73a4a;
-    --bg: #f6f8fa;
-    --card-bg: #ffffff;
-    --text: #24292e;
-    --text-light: #6a737d;
-    --border: #e1e4e8;
-    --shadow: 0 1px 3px rgba(0,0,0,0.12);
+    --primary: #3b82f6;
+    --success: #34d399;
+    --warning: #fbbf24;
+    --danger: #ef4444;
+    --bg: #111111;
+    --card-bg: #1a1a1a;
+    --text: #f5f5f5;
+    --text-light: #a3a3a3;
+    --border: #333333;
+    --shadow: 0 1px 3px rgba(0,0,0,0.3);
 }
 
 * {
@@ -81,14 +81,13 @@ main {
 /* Sections */
 section {
     background: var(--card-bg);
-    border-radius: 12px;
+    border-radius: 0.75rem;
     padding: 1.5rem;
-    margin-bottom: 2rem;
-    box-shadow: var(--shadow);
+    margin-bottom: 1.5rem;
 }
 
 section h2 {
-    color: var(--primary);
+    color: var(--text);
     margin-bottom: 1.5rem;
     padding-bottom: 0.5rem;
     border-bottom: 2px solid var(--border);
@@ -101,7 +100,7 @@ section h3 {
 
 /* Stats Section */
 .stats-section {
-    background: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%);
+    background: #222;
 }
 
 .stat-card {
@@ -141,6 +140,7 @@ section h3 {
     cursor: pointer;
     transition: all 0.3s;
     font-size: 0.9rem;
+    color: var(--text);
 }
 
 .filter-btn:hover {
@@ -162,6 +162,7 @@ section h3 {
     cursor: pointer;
     transition: all 0.3s;
     font-size: 1rem;
+    color: var(--text);
 }
 
 .type-btn:hover {
@@ -180,7 +181,8 @@ section h3 {
     border: 2px solid var(--border);
     border-radius: 6px;
     font-size: 1rem;
-    background: white;
+    background: #222;
+    color: var(--text);
     min-width: 200px;
 }
 
@@ -212,13 +214,14 @@ tbody tr {
 }
 
 tbody tr:hover {
-    background: #f0f4f8;
+    background: #252525;
 }
 
 tbody td {
     padding: 1rem 0.5rem;
     border-bottom: 1px solid var(--border);
     vertical-align: middle;
+    color: var(--text);
 }
 
 /* Rank Cell */
@@ -302,12 +305,17 @@ tbody td {
 }
 
 .growth-card {
-    background: #f8fafc;
-    border: 2px solid #e2e8f0;
-    border-radius: 12px;
+    background: #222;
+    border: 1px solid #333;
+    border-radius: 8px;
     padding: 1.5rem;
     text-align: center;
-    color: #24292e;
+    color: #f5f5f5;
+    transition: all 0.2s;
+}
+.growth-card:hover {
+    border-color: var(--primary);
+    transform: translateY(-2px);
 }
 
 .growth-card .repo-name {
@@ -347,7 +355,7 @@ tbody td {
 
 .lang-bar {
     height: 24px;
-    background: var(--border);
+    background: #2a2a2a;
     border-radius: 12px;
     overflow: hidden;
 }
@@ -363,12 +371,13 @@ tbody td {
     padding: 1rem;
     border-left: 4px solid var(--primary);
     margin-bottom: 1rem;
-    background: var(--bg);
+    background: #222;
 }
 
 .insight-title {
     font-weight: 600;
     margin-bottom: 0.5rem;
+    color: var(--text);
 }
 
 .insight-desc {
@@ -377,6 +386,7 @@ tbody td {
 
 /* Footer */
 footer {
+    background: #1a1a1a;
     text-align: center;
     padding: 2rem 1rem;
     color: var(--text-light);

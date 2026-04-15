@@ -9,27 +9,27 @@
     <style>
         .ai-gradient-border {
             position: relative;
-            background: white;
-            border-radius: 1rem;
+            background: #1a1a1a;
+            border-radius: 0.75rem;
             z-index: 0;
         }
         .ai-gradient-border::before {
             content: '';
             position: absolute;
-            inset: -2px;
+            inset: -1px;
             z-index: -1;
-            border-radius: 1rem;
-            background: linear-gradient(135deg, #667eea, #764ba2);
+            border-radius: 0.75rem;
+            background: linear-gradient(135deg, #3b82f6, #8b5cf6);
         }
         .card-glow:hover {
-            box-shadow: 0 0 20px rgba(102, 126, 234, 0.4);
+            box-shadow: 0 0 20px rgba(59, 130, 246, 0.25);
             transform: translateY(-2px);
             transition: all 0.3s ease;
         }
     </style>
 </head>
-<body class="bg-gray-50 text-gray-900 min-h-screen">
-    <header class="bg-gradient-to-r from-indigo-500 to-purple-600 text-white py-12 px-4 relative overflow-hidden">
+<body class="bg-[#111111] text-[#f5f5f5] min-h-screen">
+    <header class="bg-[#1a1a1a] border-b border-[#333] text-white py-12 px-4 relative overflow-hidden">
         <div class="absolute inset-0 bg-black/10"></div>
         <div class="max-w-6xl mx-auto text-center relative z-10">
             <h1 class="text-4xl md:text-6xl font-bold mb-4">🔥 GitHub 热门仓库趋势</h1>
@@ -47,8 +47,8 @@
 
     <main class="max-w-6xl mx-auto px-4 py-8">
         <!-- 类型与日期选择 -->
-        <section class="ai-gradient-border p-6 mb-8 bg-white">
-            <h3 class="text-lg font-semibold mb-4 text-gray-800">📅 榜单选择</h3>
+        <section class="ai-gradient-border p-6 mb-8">
+            <h3 class="text-lg font-semibold mb-4 text-gray-100">📅 榜单选择</h3>
             <div class="flex flex-wrap gap-3 mb-4">
                 <button class="type-btn active px-6 py-2 border-2 rounded-full transition-all hover:border-indigo-600 data-[active=true]:bg-gradient-to-r data-[active=true]:from-indigo-500 data-[active=true]:to-purple-600 data-[active=true]:text-white data-[active=true]:border-transparent border-gray-200 bg-white text-gray-700 card-glow" data-type="daily">📆 日榜单</button>
                 <button class="type-btn px-6 py-2 border-2 rounded-full transition-all hover:border-indigo-600 data-[active=true]:bg-gradient-to-r data-[active=true]:from-indigo-500 data-[active=true]:to-purple-600 data-[active=true]:text-white data-[active=true]:border-transparent border-gray-200 bg-white text-gray-700 card-glow" data-type="weekly">📅 周榜单</button>
@@ -61,61 +61,61 @@
         </section>
 
         <!-- 统计信息 -->
-        <section class="ai-gradient-border p-6 mb-8 bg-white">
+        <section class="ai-gradient-border p-6 mb-8">
             <div class="stat-card">
-                <h3 class="text-lg font-semibold mb-4 text-gray-800">📊 统计信息</h3>
+                <h3 class="text-lg font-semibold mb-4 text-gray-100">📊 统计信息</h3>
                 <div id="statsSummary" class="grid grid-cols-2 md:grid-cols-4 gap-4">加载中...</div>
             </div>
         </section>
 
         <!-- 语言筛选 -->
-        <section class="ai-gradient-border p-6 mb-8 bg-white">
-            <h3 class="text-lg font-semibold mb-4 text-gray-800">🔍 语言筛选</h3>
+        <section class="ai-gradient-border p-6 mb-8">
+            <h3 class="text-lg font-semibold mb-4 text-gray-100">🔍 语言筛选</h3>
             <div class="flex flex-wrap gap-2" id="languageFilters">
                 <button class="filter-btn active px-4 py-2 border-2 rounded-full transition-all hover:border-indigo-500 data-[active=true]:bg-gradient-to-r data-[active=true]:from-indigo-500 data-[active=true]:to-purple-600 data-[active=true]:text-white data-[active=true]:border-transparent border-gray-200 bg-white text-gray-700 card-glow" data-lang="all">全部</button>
             </div>
         </section>
 
         <!-- 榜单表格 -->
-        <section class="ai-gradient-border p-6 mb-8 bg-white">
-            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-gray-200 text-gray-800">📈 热门仓库排行榜</h2>
+        <section class="ai-gradient-border p-6 mb-8">
+            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-[#333] text-gray-100">📈 热门仓库排行榜</h2>
             <div class="overflow-x-auto">
                 <table class="w-full border-collapse">
                     <thead>
-                        <tr class="bg-gradient-to-r from-gray-50 to-gray-100">
-                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-gray-200">排名</th>
-                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-gray-200">仓库</th>
-                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-gray-200">语言</th>
-                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-gray-200">Stars</th>
-                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-gray-200">Forks</th>
-                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-gray-200">新增</th>
-                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-gray-200">简介</th>
+                        <tr class="bg-[#222]">
+                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-[#333] text-gray-200">排名</th>
+                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-[#333] text-gray-200">仓库</th>
+                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-[#333] text-gray-200">语言</th>
+                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-[#333] text-gray-200">Stars</th>
+                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-[#333] text-gray-200">Forks</th>
+                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-[#333] text-gray-200">新增</th>
+                            <th class="px-3 py-4 text-left font-semibold border-b-2 border-[#333] text-gray-200">简介</th>
                         </tr>
                     </thead>
                     <tbody id="trendingBody">
-                        <tr><td colspan="7" class="px-3 py-6 text-center text-gray-500 loading">加载中...</td></tr>
+                        <tr><td colspan="7" class="px-3 py-6 text-center text-gray-400 loading">加载中...</td></tr>
                     </tbody>
                 </table>
             </div>
         </section>
 
         <!-- 增长 TOP 5 -->
-        <section class="ai-gradient-border p-6 mb-8 bg-white">
-            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-gray-200 text-gray-800">🏆 增长 TOP 5</h2>
+        <section class="ai-gradient-border p-6 mb-8">
+            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-[#333] text-gray-100">🏆 增长 TOP 5</h2>
             <div class="grid grid-cols-1 md:grid-cols-5 gap-4 growth-cards" id="growthCards">
                 加载中...
             </div>
         </section>
 
         <!-- 趋势洞察 -->
-        <section class="ai-gradient-border p-6 mb-8 bg-white">
-            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-gray-200 text-gray-800">💡 趋势洞察</h2>
+        <section class="ai-gradient-border p-6 mb-8">
+            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-[#333] text-gray-100">💡 趋势洞察</h2>
             <div id="insightsContent">加载中...</div>
         </section>
 
         <!-- 语言分布 -->
-        <section class="ai-gradient-border p-6 mb-8 bg-white">
-            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-gray-200 text-gray-800">📊 语言分布</h2>
+        <section class="ai-gradient-border p-6 mb-8">
+            <h2 class="text-2xl font-semibold mb-6 pb-3 border-b-2 border-[#333] text-gray-100">📊 语言分布</h2>
             <div class="space-y-3 language-chart" id="languageChart">
                 加载中...
             </div>

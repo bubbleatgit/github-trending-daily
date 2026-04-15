@@ -46,7 +46,7 @@ function translateToChinese(text) {
   return result.length <= 3 ? text : result;
 }
 
-// 格式化周显示：周一日期到周日日期
+// 格式化周显示:周一日期到周日日期
 function formatWeekRange(startDateStr) {
   const start = new Date(startDateStr);
   const end = new Date(start);
@@ -55,7 +55,7 @@ function formatWeekRange(startDateStr) {
   return `${formatDate(start)} ~ ${formatDate(end)}`;
 }
 
-// 为选项显示文本：日显示日期，周显示范围
+// 为选项显示文本:日显示日期,周显示范围
 function formatOptionLabel(item, type) {
   if (type === 'weekly') {
     return formatWeekRange(item.date);
@@ -115,13 +115,13 @@ function updateDateSelector() {
     selector.innerHTML = '<option value="">暂无历史数据</option>';
     return;
   }
-  
+
   const list = archiveIndex[currentType];
-  selector.innerHTML = list.map(item => 
+  selector.innerHTML = list.map(item =>
     `<option value="${item.path}">${formatOptionLabel(item, currentType)}</option>`
   ).join('');
-  
-  // 选择第一个（最新）
+
+  // 选择第一个(最新)
   if (list.length > 0) {
     selector.value = list[0].path;
   }
@@ -196,10 +196,10 @@ function renderStats() {
   const title = currentType === 'daily' ? '今日统计' : '本周统计';
   document.querySelector('.stat-card h3').textContent = `📊 ${title}`;
   document.getElementById('statsSummary').innerHTML =
-    `<div class="bg-white p-4 rounded-lg text-center card-glow transition-all border border-gray-100"><span class="block text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">${totalRepos}</span><span class="text-gray-600">热门仓库</span></div>
-     <div class="bg-white p-4 rounded-lg text-center card-glow transition-all border border-gray-100"><span class="block text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">${formatNumber(totalStars)}</span><span class="text-gray-600">总 Stars</span></div>
-     <div class="bg-white p-4 rounded-lg text-center card-glow transition-all border border-gray-100"><span class="block text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-green-500 to-emerald-600">+${formatNumber(totalGrowth)}</span><span class="text-gray-600">${currentType === 'daily' ? '今日新增' : '本周新增'}</span></div>
-     <div class="bg-white p-4 rounded-lg text-center card-glow transition-all border border-gray-100"><span class="block text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600">${languages.length}</span><span class="text-gray-600">编程语言</span></div>`;
+    `<div class="bg-[#222] p-4 rounded-lg text-center card-glow transition-all border border-[#333]"><span class="block text-3xl font-bold text-blue-500">${totalRepos}</span><span class="text-gray-400">热门仓库</span></div>
+     <div class="bg-[#222] p-4 rounded-lg text-center card-glow transition-all border border-[#333]"><span class="block text-3xl font-bold text-blue-500">${formatNumber(totalStars)}</span><span class="text-gray-400">总 Stars</span></div>
+     <div class="bg-[#222] p-4 rounded-lg text-center card-glow transition-all border border-[#333]"><span class="block text-3xl font-bold text-green-500">+${formatNumber(totalGrowth)}</span><span class="text-gray-400">${currentType === 'daily' ? '今日新增' : '本周新增'}</span></div>
+     <div class="bg-[#222] p-4 rounded-lg text-center card-glow transition-all border border-[#333]"><span class="block text-3xl font-bold text-blue-500">${languages.length}</span><span class="text-gray-400">编程语言</span></div>`;
 }
 
 function renderLanguageFilters() {
@@ -229,18 +229,18 @@ function renderLanguageFilters() {
 function renderTable(repos) {
   const tbody = document.getElementById('trendingBody');
   if (!repos || !repos.length) {
-    tbody.innerHTML = '<tr><td colspan="7" class="px-3 py-6 text-center text-gray-500">暂无数据</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="7" class="px-3 py-6 text-center text-gray-400">暂无数据</td></tr>';
     return;
   }
   tbody.innerHTML = repos.map((repo, i) =>
-`<tr class="hover:bg-gray-50 transition-colors">
-  <td class="px-3 py-4 border-b border-gray-200 font-semibold">${i+1}</td>
-  <td class="px-3 py-4 border-b border-gray-200"><a href="${repo.url}" target="_blank" class="text-indigo-600 hover:underline font-medium">${repo.name}</a></td>
-  <td class="px-3 py-4 border-b border-gray-200"><span class="inline-block px-3 py-1 rounded-full text-white text-sm" style="background-color:${getLangColor(repo.language)}">${repo.language||'Unknown'}</span></td>
-  <td class="px-3 py-4 border-b border-gray-200 font-mono">${formatNumber(repo.stars)}</td>
-  <td class="px-3 py-4 border-b border-gray-200 font-mono">${formatNumber(repo.forks)}</td>
-  <td class="px-3 py-4 border-b border-gray-200 font-mono text-green-600 font-semibold">+${formatNumber(repo.todayStars||0)}</td>
-  <td class="px-3 py-4 border-b border-gray-200">${translateToChinese(repo.description).substring(0,60)}${translateToChinese(repo.description).length > 60 ? '...' : ''}</td>
+`<tr class="hover:bg-[#252525] transition-colors">
+  <td class="px-3 py-4 border-b border-[#333] font-semibold text-gray-200">${i+1}</td>
+  <td class="px-3 py-4 border-b border-[#333]"><a href="${repo.url}" target="_blank" class="text-blue-500 hover:underline font-medium">${repo.name}</a></td>
+  <td class="px-3 py-4 border-b border-[#333]"><span class="inline-block px-3 py-1 rounded-full text-white text-sm" style="background-color:${getLangColor(repo.language)}">${repo.language||'Unknown'}</span></td>
+  <td class="px-3 py-4 border-b border-[#333] font-mono text-gray-200">${formatNumber(repo.stars)}</td>
+  <td class="px-3 py-4 border-b border-[#333] font-mono text-gray-200">${formatNumber(repo.forks)}</td>
+  <td class="px-3 py-4 border-b border-[#333] font-mono text-green-500 font-semibold">+${formatNumber(repo.todayStars||0)}</td>
+  <td class="px-3 py-4 border-b border-[#333] text-gray-300">${translateToChinese(repo.description).substring(0,60)}${translateToChinese(repo.description).length > 60 ? '...' : ''}</td>
 </tr>`
   ).join('');
 }
@@ -250,7 +250,7 @@ function renderGrowthCards() {
   const title = currentType === 'daily' ? '今日增长 TOP 5' : '本周增长 TOP 5';
   document.querySelector('section.ai-gradient-border h2:first-of-type').textContent = `🏆 ${title}`;
   document.getElementById('growthCards').innerHTML = top.map((r,i)=>
-    `<div class="bg-gray-50 p-4 rounded-lg card-glow transition-all"><b class="text-gray-500">#${i+1}</b> <a href="${r.url}" target="_blank" class="text-indigo-600 hover:underline font-medium">${r.name}</a> <span class="text-green-600 font-semibold">+${formatNumber(r.todayStars||0)} ⭐</span></div>`
+    `<div class="bg-[#222] p-4 rounded-lg card-glow transition-all border border-[#333]"><b class="text-gray-400">#${i+1}</b> <a href="${r.url}" target="_blank" class="text-blue-500 hover:underline font-medium">${r.name}</a> <span class="text-green-500 font-semibold">+${formatNumber(r.todayStars||0)} ⭐</span></div>`
   ).join('');
 }
 
@@ -261,7 +261,7 @@ function renderInsights() {
   repos.forEach(r=>{const l = r.language||'Unknown'; langStats[l]=(langStats[l]||0)+1});
   const topLang = Object.entries(langStats).sort((a,b)=>b[1]-a[1])[0];
   const avgGrowth = Math.round(repos.reduce((s,r)=>s+(r.todayStars||0),0)/repos.length);
-  document.getElementById('insightsContent').innerHTML = `<div class="flex flex-col md:flex-row gap-4"><div class="flex-1 p-4 bg-gray-50 rounded-lg card-glow transition-all border border-gray-100"><p><strong>最热门语言：</strong>${topLang[0]} (${topLang[1]}个仓库)</p></div><div class="flex-1 p-4 bg-gray-50 rounded-lg card-glow transition-all border border-gray-100"><p><strong>平均每个仓库新增星标：</strong>${avgGrowth}</p></div></div>`;
+  document.getElementById('insightsContent').innerHTML = `<div class="flex flex-col md:flex-row gap-4"><div class="flex-1 p-4 bg-[#222] rounded-lg card-glow transition-all border border-[#333]"><p><strong>最热门语言：</strong>${topLang[0]} (${topLang[1]}个仓库)</p></div><div class="flex-1 p-4 bg-[#222] rounded-lg card-glow transition-all border border-[#333]"><p><strong>平均每个仓库新增星标：</strong>${avgGrowth}</p></div></div>`;
 }
 
 function renderLanguageChart() {
@@ -272,11 +272,11 @@ function renderLanguageChart() {
   const container = document.getElementById('languageChart');
   container.innerHTML = sorted.map(([lang, count]) =>
     `<div class="flex items-center gap-3">
-       <span class="w-24 text-sm">${lang}</span>
-       <div class="flex-1 bg-gray-200 rounded-full h-6 overflow-hidden">
-         <div class="bg-gradient-to-r from-indigo-500 to-purple-500 h-full rounded-full" style="width:${(count/repos.length*100)}%"></div>
+       <span class="w-24 text-sm text-gray-300">${lang}</span>
+       <div class="flex-1 bg-[#333] rounded-full h-6 overflow-hidden">
+         <div class="bg-gradient-to-r from-blue-500 to-indigo-600 h-full rounded-full" style="width:${(count/repos.length*100)}%"></div>
        </div>
-       <span class="w-8 text-right text-sm font-semibold">${count}</span>
+       <span class="w-8 text-right text-sm font-semibold text-gray-200">${count}</span>
      </div>`
   ).join('');
 }
