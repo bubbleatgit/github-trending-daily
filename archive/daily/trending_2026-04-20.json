@@ -1,0 +1,106 @@
+{
+  "date": "2026-04-20",
+  "type": "daily",
+  "repos": [
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "language": "Python",
+      "stars": 6721,
+      "forks": 1032,
+      "todayStars": 1254,
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "avatar": ""
+    },
+    {
+      "name": "thunderbird/thunderbolt",
+      "description": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+      "language": "TypeScript",
+      "stars": 2258,
+      "forks": 132,
+      "todayStars": 695,
+      "url": "https://github.com/thunderbird/thunderbolt",
+      "avatar": ""
+    },
+    {
+      "name": "tractorjuice/arc-kit",
+      "description": "Enterprise Architecture Governance &amp; Vendor Procurement Toolkit",
+      "language": "HTML",
+      "stars": 1024,
+      "forks": 136,
+      "todayStars": 263,
+      "url": "https://github.com/tractorjuice/arc-kit",
+      "avatar": ""
+    },
+    {
+      "name": "openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "language": "Python",
+      "stars": 23230,
+      "forks": 3638,
+      "todayStars": 752,
+      "url": "https://github.com/openai/openai-agents-python",
+      "avatar": ""
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "description": "No description available",
+      "language": "TypeScript",
+      "stars": 9907,
+      "forks": 1847,
+      "todayStars": 109,
+      "url": "https://github.com/pingdotgg/t3code",
+      "avatar": ""
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "language": "Python",
+      "stars": 38904,
+      "forks": 2502,
+      "todayStars": 393,
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "avatar": ""
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 47535,
+      "forks": 6392,
+      "todayStars": 149,
+      "url": "https://github.com/ruvnet/RuView",
+      "avatar": ""
+    },
+    {
+      "name": "EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "language": "JavaScript",
+      "stars": 5566,
+      "forks": 540,
+      "todayStars": 527,
+      "url": "https://github.com/EvoMap/evolver",
+      "avatar": ""
+    },
+    {
+      "name": "BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "language": "Dart",
+      "stars": 11207,
+      "forks": 1780,
+      "todayStars": 685,
+      "url": "https://github.com/BasedHardware/omi",
+      "avatar": ""
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "stars": 13536,
+      "forks": 1937,
+      "todayStars": 704,
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "avatar": ""
+    }
+  ]
+}

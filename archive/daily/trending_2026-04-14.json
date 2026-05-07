@@ -1,0 +1,306 @@
+{
+  "date": "2026-04-14",
+  "type": "daily",
+  "repos": [
+  {
+    "name": "CITGuru/openduck",
+    "description": "Distributed DuckDB - dual execution and differential storage",
+    "language": "C++",
+    "stars": 184,
+    "forks": 3,
+    "todayStars": 23,
+    "url": "https://github.com/CITGuru/openduck",
+    "avatar": "https://avatars.githubusercontent.com/u/16475846?v=4"
+  },
+  {
+    "name": "5ec1cff/FuseFixer",
+    "description": "No description available",
+    "language": "C",
+    "stars": 96,
+    "forks": 8,
+    "todayStars": 21,
+    "url": "https://github.com/5ec1cff/FuseFixer",
+    "avatar": "https://avatars.githubusercontent.com/u/56485584?v=4"
+  },
+  {
+    "name": "ChatPRD/tradclaw",
+    "description": "AI openclaw mom and household manager for agentic parenting",
+    "language": "Unknown",
+    "stars": 90,
+    "forks": 7,
+    "todayStars": 21,
+    "url": "https://github.com/ChatPRD/tradclaw",
+    "avatar": "https://avatars.githubusercontent.com/u/174969366?v=4"
+  },
+  {
+    "name": "earendil-works/pi-review",
+    "description": "A review extension for Pi",
+    "language": "TypeScript",
+    "stars": 70,
+    "forks": 2,
+    "todayStars": 21,
+    "url": "https://github.com/earendil-works/pi-review",
+    "avatar": "https://avatars.githubusercontent.com/u/207902832?v=4"
+  },
+  {
+    "name": "darbra/awesome-ai-reverse",
+    "description": "ai reverse 一把梭",
+    "language": "Unknown",
+    "stars": 58,
+    "forks": 6,
+    "todayStars": 21,
+    "url": "https://github.com/darbra/awesome-ai-reverse",
+    "avatar": "https://avatars.githubusercontent.com/u/19433645?v=4"
+  },
+  {
+    "name": "baidu/ERNIE-Image",
+    "description": "ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models.",
+    "language": "Python",
+    "stars": 49,
+    "forks": 1,
+    "todayStars": 20,
+    "url": "https://github.com/baidu/ERNIE-Image",
+    "avatar": "https://avatars.githubusercontent.com/u/13245940?v=4"
+  },
+  {
+    "name": "xenials8/torzon-onion-links",
+    "description": "TorZon Onion Links",
+    "language": "Unknown",
+    "stars": 34,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/xenials8/torzon-onion-links",
+    "avatar": "https://avatars.githubusercontent.com/u/196872046?v=4"
+  },
+  {
+    "name": "bchao1/paper-finder",
+    "description": "Claude skill for finding ML research papers.",
+    "language": "Unknown",
+    "stars": 29,
+    "forks": 4,
+    "todayStars": 20,
+    "url": "https://github.com/bchao1/paper-finder",
+    "avatar": "https://avatars.githubusercontent.com/u/32431810?v=4"
+  },
+  {
+    "name": "Jsnzkpg/pansou",
+    "description": "裤佬全网盘搜，纯前端打造，资源覆盖国内大部分主流网盘，以及嗅探网络公开分享和TG网盘资源分享频道，一键搜索便可展示所有匹配的资源，且设置了智能缓存和镜像代理加速",
+    "language": "HTML",
+    "stars": 27,
+    "forks": 2,
+    "todayStars": 20,
+    "url": "https://github.com/Jsnzkpg/pansou",
+    "avatar": "https://avatars.githubusercontent.com/u/86181487?v=4"
+  },
+  {
+    "name": "irinabuht12-oss/email-campaigns-claude",
+    "description": "No description available",
+    "language": "Unknown",
+    "stars": 25,
+    "forks": 3,
+    "todayStars": 20,
+    "url": "https://github.com/irinabuht12-oss/email-campaigns-claude",
+    "avatar": "https://avatars.githubusercontent.com/u/231318361?v=4"
+  },
+  {
+    "name": "cshitian/antigravity_chinese",
+    "description": "Antigravity汉化,简体中文",
+    "language": "Python",
+    "stars": 20,
+    "forks": 1,
+    "todayStars": 20,
+    "url": "https://github.com/cshitian/antigravity_chinese",
+    "avatar": "https://avatars.githubusercontent.com/u/24708632?v=4"
+  },
+  {
+    "name": "Itz-Anya/Weather-App",
+    "description": "A Modern And Beautifully Designed Weather Platform That Delivers Accurate, Real-Time Updates With A Smooth And Elegant User Experience. Crafted With Unique Features And Attention To Detail By Anya.",
+    "language": "TypeScript",
+    "stars": 17,
+    "forks": 7,
+    "todayStars": 20,
+    "url": "https://github.com/Itz-Anya/Weather-App",
+    "avatar": "https://avatars.githubusercontent.com/u/121714623?v=4"
+  },
+  {
+    "name": "SwarmOne/agentic-swarm-bench",
+    "description": "Open-source benchmark for LLM inference under agentic swarm workloads",
+    "language": "Python",
+    "stars": 17,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/SwarmOne/agentic-swarm-bench",
+    "avatar": "https://avatars.githubusercontent.com/u/275043409?v=4"
+  },
+  {
+    "name": "RoggeOhta/amadeus-in-shell",
+    "description": "No description available",
+    "language": "Python",
+    "stars": 15,
+    "forks": 1,
+    "todayStars": 20,
+    "url": "https://github.com/RoggeOhta/amadeus-in-shell",
+    "avatar": "https://avatars.githubusercontent.com/u/19422794?v=4"
+  },
+  {
+    "name": "ernestolee13/para-knowledge-base",
+    "description": "LLM Knowledge Base for PARA-structured Obsidian vaults — Karpathy's llm-wiki pattern as a Claude Code plugin",
+    "language": "Unknown",
+    "stars": 14,
+    "forks": 1,
+    "todayStars": 20,
+    "url": "https://github.com/ernestolee13/para-knowledge-base",
+    "avatar": "https://avatars.githubusercontent.com/u/208013145?v=4"
+  },
+  {
+    "name": "vietnh1009/Naruto",
+    "description": "No description available",
+    "language": "HTML",
+    "stars": 14,
+    "forks": 6,
+    "todayStars": 20,
+    "url": "https://github.com/vietnh1009/Naruto",
+    "avatar": "https://avatars.githubusercontent.com/u/47221207?v=4"
+  },
+  {
+    "name": "eimg/book-order-platform-SKILL",
+    "description": "Implements a book order system with a Vite React storefront (React Router,   TanStack Query) and an Express + Prisma + SQLite API",
+    "language": "Unknown",
+    "stars": 13,
+    "forks": 10,
+    "todayStars": 20,
+    "url": "https://github.com/eimg/book-order-platform-SKILL",
+    "avatar": "https://avatars.githubusercontent.com/u/339304?v=4"
+  },
+  {
+    "name": "Jian-Lang/awesome-modality-missing-learning",
+    "description": "This repository contains a collection of research studies centered on Modality Missing Learning (MML) (also referred to as Incomplete Multimodal Learning).",
+    "language": "Unknown",
+    "stars": 13,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/Jian-Lang/awesome-modality-missing-learning",
+    "avatar": "https://avatars.githubusercontent.com/u/88083695?v=4"
+  },
+  {
+    "name": "MatheusAlvarez/RickAndMorty-3DM",
+    "description": "No description available",
+    "language": "JavaScript",
+    "stars": 12,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/MatheusAlvarez/RickAndMorty-3DM",
+    "avatar": "https://avatars.githubusercontent.com/u/88752578?v=4"
+  },
+  {
+    "name": "janani-p2005/Smart-Energy-Meter-with-Theft-Detection",
+    "description": "This project monitors electricity consumption in real time and detects abnormal usage to prevent power theft. When unusual activity is identified, the system alerts the user and displays energy usage details for efficient power management. ⚡📊",
+    "language": "Unknown",
+    "stars": 12,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/janani-p2005/Smart-Energy-Meter-with-Theft-Detection",
+    "avatar": "https://avatars.githubusercontent.com/u/258388116?v=4"
+  },
+  {
+    "name": "janani-p2005/SMART-HANDBAG-SAFETY-SYSTEM",
+    "description": "Smart Handbag Safety System is an IoT-based security solution that monitors unauthorized access and protects personal belongings using sensors and real-time alerts. The system detects suspicious activity and notifies the user through buzzer alerts and mobile notifications for enhanced safety and convenience.",
+    "language": "Unknown",
+    "stars": 12,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/janani-p2005/SMART-HANDBAG-SAFETY-SYSTEM",
+    "avatar": "https://avatars.githubusercontent.com/u/258388116?v=4"
+  },
+  {
+    "name": "tagir253/macos-ai-assistant",
+    "description": "No description available",
+    "language": "JavaScript",
+    "stars": 11,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/tagir253/macos-ai-assistant",
+    "avatar": "https://avatars.githubusercontent.com/u/275474659?v=4"
+  },
+  {
+    "name": "Toni-xie/Trading-skills",
+    "description": "Skills for all my trading idea",
+    "language": "Python",
+    "stars": 11,
+    "forks": 3,
+    "todayStars": 20,
+    "url": "https://github.com/Toni-xie/Trading-skills",
+    "avatar": "https://avatars.githubusercontent.com/u/64985167?v=4"
+  },
+  {
+    "name": "peepingood/clipmind-ai-macos",
+    "description": "No description available",
+    "language": "JavaScript",
+    "stars": 11,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/peepingood/clipmind-ai-macos",
+    "avatar": "https://avatars.githubusercontent.com/u/275472312?v=4"
+  },
+  {
+    "name": "Sim2Reason/Sim2Reason",
+    "description": "Sim2Reason: Solving Physics Olympiad via Reinforcement Learning on Physics Simulators.  We present a method for turning physics simulators into scalable generators of question–answer pairs for improving LLM physical reasoning.",
+    "language": "Python",
+    "stars": 11,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/Sim2Reason/Sim2Reason",
+    "avatar": "https://avatars.githubusercontent.com/u/265008810?v=4"
+  },
+  {
+    "name": "hyyhf/langgraph-book-code",
+    "description": "《LangGraph AI智能体开发实战》一书的所有配套代码",
+    "language": "Python",
+    "stars": 10,
+    "forks": 1,
+    "todayStars": 20,
+    "url": "https://github.com/hyyhf/langgraph-book-code",
+    "avatar": "https://avatars.githubusercontent.com/u/17477844?v=4"
+  },
+  {
+    "name": "glebkudr/zip_context",
+    "description": "No description available",
+    "language": "Python",
+    "stars": 10,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/glebkudr/zip_context",
+    "avatar": "https://avatars.githubusercontent.com/u/5067228?v=4"
+  },
+  {
+    "name": "fernwen1114-collab/CLI-Factory",
+    "description": "Unified Agent-Reliable Protocol for Any CLI",
+    "language": "Unknown",
+    "stars": 10,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/fernwen1114-collab/CLI-Factory",
+    "avatar": "https://avatars.githubusercontent.com/u/275878684?v=4"
+  },
+  {
+    "name": "poolcamacho/Maple",
+    "description": "A free, fast, native macOS Git client built with SwiftUI. Full commit graph with real topology, inline diff/blame, merge & rebase with conflict resolution.",
+    "language": "Swift",
+    "stars": 10,
+    "forks": 0,
+    "todayStars": 20,
+    "url": "https://github.com/poolcamacho/Maple",
+    "avatar": "https://avatars.githubusercontent.com/u/62462649?v=4"
+  },
+  {
+    "name": "zhuzhiqiang18/local-discovery",
+    "description": "零侵入的本地微服务注册发现工具，一行 JVM 参数实现本地服务互调，自动穿透远端注册中心",
+    "language": "Java",
+    "stars": 10,
+    "forks": 1,
+    "todayStars": 20,
+    "url": "https://github.com/zhuzhiqiang18/local-discovery",
+    "avatar": "https://avatars.githubusercontent.com/u/16205739?v=4"
+  }
+]
+}

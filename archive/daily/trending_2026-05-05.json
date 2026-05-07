@@ -1,0 +1,156 @@
+{
+  "date": "2026-05-05",
+  "type": "daily",
+  "repos": [
+    {
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars": 41519,
+      "forks": 4645,
+      "todayStars": 2598,
+      "url": "https://github.com/ruvnet/ruflo",
+      "avatar": ""
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 67604,
+      "forks": 13004,
+      "todayStars": 2182,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "avatar": ""
+    },
+    {
+      "name": "browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "language": "JavaScript",
+      "stars": 2131,
+      "forks": 134,
+      "todayStars": 320,
+      "url": "https://github.com/browserbase/skills",
+      "avatar": ""
+    },
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars": 4060,
+      "forks": 274,
+      "todayStars": 1274,
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "avatar": ""
+    },
+    {
+      "name": "soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "stars": 24886,
+      "forks": 1733,
+      "todayStars": 1119,
+      "url": "https://github.com/soxoj/maigret",
+      "avatar": ""
+    },
+    {
+      "name": "qbittorrent/qBittorrent",
+      "description": "qBittorrent BitTorrent client",
+      "language": "C++",
+      "stars": 37061,
+      "forks": 4651,
+      "todayStars": 82,
+      "url": "https://github.com/qbittorrent/qBittorrent",
+      "avatar": ""
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "language": "TypeScript",
+      "stars": 19931,
+      "forks": 3267,
+      "todayStars": 496,
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "avatar": ""
+    },
+    {
+      "name": "1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 3932,
+      "forks": 372,
+      "todayStars": 548,
+      "url": "https://github.com/1jehuang/jcode",
+      "avatar": ""
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "stars": 92713,
+      "forks": 15247,
+      "todayStars": 1189,
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "avatar": ""
+    },
+    {
+      "name": "virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 23229,
+      "forks": 2844,
+      "todayStars": 409,
+      "url": "https://github.com/virattt/dexter",
+      "avatar": ""
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "description": "No description available",
+      "language": "Batchfile",
+      "stars": 27319,
+      "forks": 2133,
+      "todayStars": 67,
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "avatar": ""
+    },
+    {
+      "name": "fspecii/ace-step-ui",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "language": "JavaScript",
+      "stars": 2860,
+      "forks": 411,
+      "todayStars": 237,
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "avatar": ""
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "description": "The Free Software Media System - Server Backend &amp; API",
+      "language": "C#",
+      "stars": 51164,
+      "forks": 4740,
+      "todayStars": 41,
+      "url": "https://github.com/jellyfin/jellyfin",
+      "avatar": ""
+    },
+    {
+      "name": "cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "language": "Python",
+      "stars": 8025,
+      "forks": 592,
+      "todayStars": 166,
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "avatar": ""
+    },
+    {
+      "name": "docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": 13306,
+      "forks": 1213,
+      "todayStars": 535,
+      "url": "https://github.com/docusealco/docuseal",
+      "avatar": ""
+    }
+  ]
+}

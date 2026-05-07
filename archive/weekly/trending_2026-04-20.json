@@ -1,0 +1,156 @@
+{
+  "date": "2026-04-20",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 61699,
+      "forks": 5371,
+      "todayStars": 45381,
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "avatar": ""
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 102358,
+      "forks": 14600,
+      "todayStars": 38194,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "avatar": ""
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 63376,
+      "forks": 5311,
+      "todayStars": 14556,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "avatar": ""
+    },
+    {
+      "name": "EvoMap/evolver",
+      "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+      "language": "JavaScript",
+      "stars": 5566,
+      "forks": 540,
+      "todayStars": 3434,
+      "url": "https://github.com/EvoMap/evolver",
+      "avatar": ""
+    },
+    {
+      "name": "lsdefine/GenericAgent",
+      "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "language": "Python",
+      "stars": 4568,
+      "forks": 484,
+      "todayStars": 3512,
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "avatar": ""
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 19620,
+      "forks": 3549,
+      "todayStars": 4455,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "avatar": ""
+    },
+    {
+      "name": "multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "language": "TypeScript",
+      "stars": 16818,
+      "forks": 2081,
+      "todayStars": 7831,
+      "url": "https://github.com/multica-ai/multica",
+      "avatar": ""
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 56359,
+      "forks": 9785,
+      "todayStars": 4458,
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "avatar": ""
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 112674,
+      "forks": 7294,
+      "todayStars": 9018,
+      "url": "https://github.com/microsoft/markitdown",
+      "avatar": ""
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "language": "Unknown",
+      "stars": 32497,
+      "forks": 3956,
+      "todayStars": 5497,
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "avatar": ""
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "language": "TypeScript",
+      "stars": 21239,
+      "forks": 2435,
+      "todayStars": 5724,
+      "url": "https://github.com/jamiepine/voicebox",
+      "avatar": ""
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "stars": 14862,
+      "forks": 1767,
+      "todayStars": 4136,
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "avatar": ""
+    },
+    {
+      "name": "SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "language": "Shell",
+      "stars": 3604,
+      "forks": 370,
+      "todayStars": 1921,
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "avatar": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 17940,
+      "forks": 2247,
+      "todayStars": 4607,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "avatar": ""
+    },
+    {
+      "name": "BasedHardware/omi",
+      "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+      "language": "Dart",
+      "stars": 11207,
+      "forks": 1780,
+      "todayStars": 2896,
+      "url": "https://github.com/BasedHardware/omi",
+      "avatar": ""
+    }
+  ]
+}

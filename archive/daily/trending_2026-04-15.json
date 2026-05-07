@@ -1,0 +1,126 @@
+{
+  "date": "2026-04-15",
+  "type": "daily",
+  "repos": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 38228,
+      "forks": 3119,
+      "todayStars": 9263,
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "avatar": ""
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "language": "TypeScript",
+      "stars": 56721,
+      "forks": 4572,
+      "todayStars": 2997,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "avatar": ""
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "description": "The open-source voice synthesis studio",
+      "language": "TypeScript",
+      "stars": 17795,
+      "forks": 2072,
+      "todayStars": 1162,
+      "url": "https://github.com/jamiepine/voicebox",
+      "avatar": ""
+    },
+    {
+      "name": "pascalorg/editor",
+      "description": "Create and share 3D architectural projects.",
+      "language": "TypeScript",
+      "stars": 12114,
+      "forks": 1511,
+      "todayStars": 820,
+      "url": "https://github.com/pascalorg/editor",
+      "avatar": ""
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 109084,
+      "forks": 6926,
+      "todayStars": 1675,
+      "url": "https://github.com/microsoft/markitdown",
+      "avatar": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": 153297,
+      "forks": 13310,
+      "todayStars": 1919,
+      "url": "https://github.com/obra/superpowers",
+      "avatar": ""
+    },
+    {
+      "name": "chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+      "language": "Assembly",
+      "stars": 66566,
+      "forks": 7593,
+      "todayStars": 472,
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "avatar": ""
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "language": "Python",
+      "stars": 54609,
+      "forks": 9474,
+      "todayStars": 1007,
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "avatar": ""
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": 18031,
+      "forks": 3340,
+      "todayStars": 963,
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "avatar": ""
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 87537,
+      "forks": 11863,
+      "todayStars": 8301,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "avatar": ""
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Unknown",
+      "stars": 40526,
+      "forks": 4462,
+      "todayStars": 931,
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "avatar": ""
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "description": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "language": "HTML",
+      "stars": 44599,
+      "forks": 4269,
+      "todayStars": 2583,
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "avatar": ""
+    }
+  ]
+}
