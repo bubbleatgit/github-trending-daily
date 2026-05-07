@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub 热门仓库趋势 | Daily Trending</title>
+    <link rel="icon" href="https://github.githubassets.com/favicons/favicon.svg">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="style-glass.css">
+</head>
+<body>
+    <header>
+        <h1>🔥 GitHub 热门仓库趋势</h1>
+        <p class="subtitle">每日自动更新，追踪开源社区热点</p>
+        <p class="update-time">最后更新：<span id="updateDate" class="font-semibold bg-white/20 px-4 py-1.5 rounded-full backdrop-blur-sm">-</span></p>
+        <div class="nav">
+            <a href="https://github.com/bubbleatgit/github-trending-daily" target="_blank">
+                <img src="https://github.githubassets.com/favicons/favicon.svg" alt="GitHub" width="20">
+                查看源码
+            </a>
+        </div>
+    </header>
+
+    <main>
+        <section class="glass-card">
+            <h3>📅 榜单选择</h3>
+            <div class="flex flex-wrap gap-3 mb-4">
+                <button class="type-btn active" data-type="daily">📆 日榜单</button>
+                <button class="type-btn" data-type="weekly">📅 周榜单</button>
+            </div>
+            <div>
+                <select id="dateSelector" class="date-selector">
+                    <option value="">加载中...</option>
+                </select>
+            </div>
+        </section>
+
+        <section class="glass-card">
+            <div class="stat-card">
+                <h3>📊 统计信息</h3>
+                <div id="statsSummary" class="stats-grid">加载中...</div>
+            </div>
+        </section>
+
+        <section class="glass-card">
+            <h3>🔍 语言筛选</h3>
+            <div class="flex flex-wrap gap-2" id="languageFilters">
+                <button class="filter-btn active" data-lang="all">全部</button>
+            </div>
+        </section>
+
+        <section class="glass-card">
+            <h2>📈 热门仓库排行榜</h2>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="px-3 py-4 text-left font-semibold">排名</th>
+                            <th class="px-3 py-4 text-left font-semibold">仓库</th>
+                            <th class="px-3 py-4 text-left font-semibold">语言</th>
+                            <th class="px-3 py-4 text-left font-semibold">Stars</th>
+                            <th class="px-3 py-4 text-left font-semibold">Forks</th>
+                            <th class="px-3 py-4 text-left font-semibold">新增</th>
+                            <th class="px-3 py-4 text-left font-semibold">简介</th>
+                        </tr>
+                    </thead>
+                    <tbody id="trendingBody">
+                        <tr><td colspan="7" class="loading">加载中...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section class="glass-card">
+            <h2>🏆 增长 TOP 5</h2>
+            <div class="growth-cards" id="growthCards">
+                加载中...
+            </div>
+        </section>
+
+        <section class="glass-card">
+            <h2>💡 趋势洞察</h2>
+            <div id="insightsContent">加载中...</div>
+        </section>
+
+        <section class="glass-card">
+            <h2>📊 语言分布</h2>
+            <div class="language-chart" id="languageChart">
+                加载中...
+            </div>
+        </section>
+
+        <button id="backToTop" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">
+            ↑
+        </button>
+    </main>
+
+    <footer>
+        <p class="mb-2">数据来源：<a href="https://github.com/trending" target="_blank">github.com/trending</a></p>
+        <p>✨ 毛玻璃风格设计 · 自动每日更新 · 纯静态 GitHub Pages 托管</p>
+    </footer>
+
+    <script src="app-glass.js"></script>
+    <script>
+        window.addEventListener('scroll', () => {
+            const btn = document.getElementById('backToTop');
+            if (window.scrollY > 300) {
+                btn.classList.add('visible');
+            } else {
+                btn.classList.remove('visible');
+            }
+        });
+    </script>
+</body>
+</html>
