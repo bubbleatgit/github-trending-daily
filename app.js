@@ -160,7 +160,6 @@ function renderAll() {
   renderLanguageFilters();
   renderTable(trendingData.repos);
   renderGrowthCards();
-  renderInsights();
   renderLanguageChart();
 }
 
@@ -253,7 +252,7 @@ function renderTable(repos) {
 function renderGrowthCards() {
   const top = [...trendingData.repos].sort((a,b)=>(b.todayStars||0)-(a.todayStars||0)).slice(0,5);
   const title = currentType === 'daily' ? '今日增长 TOP 5' : '本周增长 TOP 5';
-  document.querySelectorAll('.glass-card h2')[2].textContent = `🏆 ${title}`;
+  document.querySelectorAll('.glass-card h2')[1].textContent = `🏆 ${title}`;
   document.getElementById('growthCards').innerHTML = top.map((r,i)=>
     `<div class="growth-card">
         <div class="repo-name">${r.name}</div>
@@ -271,23 +270,6 @@ function getFireEmoji(stars) {
   return '✨';
 }
 
-function renderInsights() {
-  const repos = trendingData.repos;
-  if (!repos.length) return;
-  const langStats = {};
-  repos.forEach(r=>{const l = r.language||'Unknown'; langStats[l]=(langStats[l]||0)+1});
-  const topLang = Object.entries(langStats).sort((a,b)=>b[1]-a[1])[0];
-  const avgGrowth = Math.round(repos.reduce((s,r)=>s+(r.todayStars||0),0)/repos.length);
-  document.getElementById('insightsContent').innerHTML =
-    `<div class="insight-item" style="border-image: linear-gradient(to bottom, #667eea, #764ba2) 1;">
-        <div class="insight-title">🎯 最热门语言</div>
-        <div class="insight-desc">${topLang[0]} (${topLang[1]}个仓库)</div>
-     </div>
-     <div class="insight-item" style="border-image: linear-gradient(to bottom, #34d399, #10b981) 1;">
-        <div class="insight-title">📊 平均每个仓库新增星标</div>
-        <div class="insight-desc">${avgGrowth} ⭐</div>
-     </div>`;
-}
 
 function renderLanguageChart() {
   const repos = trendingData.repos;
