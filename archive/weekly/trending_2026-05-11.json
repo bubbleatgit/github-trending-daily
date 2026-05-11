@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-11",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars": 24160,
+      "forks": 1970,
+      "todayStars": 22034,
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "avatar": ""
+    },
+    {
+      "name": "anthropics/financial-services",
+      "description": "No description available",
+      "language": "Python",
+      "stars": 18974,
+      "forks": 2456,
+      "todayStars": 10272,
+      "url": "https://github.com/anthropics/financial-services",
+      "avatar": ""
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "language": "TypeScript",
+      "stars": 48522,
+      "forks": 5377,
+      "todayStars": 10779,
+      "url": "https://github.com/ruvnet/ruflo",
+      "avatar": ""
+    },
+    {
+      "name": "docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "stars": 16238,
+      "forks": 1471,
+      "todayStars": 4020,
+      "url": "https://github.com/docusealco/docuseal",
+      "avatar": ""
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 73260,
+      "forks": 14265,
+      "todayStars": 8872,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "avatar": ""
+    },
+    {
+      "name": "LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local &amp; Encrypted.",
+      "language": "Python",
+      "stars": 7085,
+      "forks": 626,
+      "todayStars": 2483,
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "avatar": ""
+    },
+    {
+      "name": "virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "language": "TypeScript",
+      "stars": 25171,
+      "forks": 3067,
+      "todayStars": 2741,
+      "url": "https://github.com/virattt/dexter",
+      "avatar": ""
+    },
+    {
+      "name": "decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": 7364,
+      "forks": 1241,
+      "todayStars": 3318,
+      "url": "https://github.com/decolua/9router",
+      "avatar": ""
+    },
+    {
+      "name": "1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "language": "Rust",
+      "stars": 5567,
+      "forks": 561,
+      "todayStars": 2328,
+      "url": "https://github.com/1jehuang/jcode",
+      "avatar": ""
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "language": "Python",
+      "stars": 14665,
+      "forks": 2140,
+      "todayStars": 5038,
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "avatar": ""
+    },
+    {
+      "name": "cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "language": "Python",
+      "stars": 9497,
+      "forks": 725,
+      "todayStars": 1831,
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "avatar": ""
+    },
+    {
+      "name": "browserbase/skills",
+      "description": "Browserbase's official collection of agent skills to access the web.",
+      "language": "JavaScript",
+      "stars": 3098,
+      "forks": 204,
+      "todayStars": 1403,
+      "url": "https://github.com/browserbase/skills",
+      "avatar": ""
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 69245,
+      "forks": 5981,
+      "todayStars": 12722,
+      "url": "https://github.com/mattpocock/skills",
+      "avatar": ""
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 32208,
+      "forks": 3194,
+      "todayStars": 2191,
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "avatar": ""
+    },
+    {
+      "name": "withastro/flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "stars": 3084,
+      "forks": 159,
+      "todayStars": 1014,
+      "url": "https://github.com/withastro/flue",
+      "avatar": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 38547,
+      "forks": 4273,
+      "todayStars": 10738,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "avatar": ""
+    },
+    {
+      "name": "InsForge/InsForge",
+      "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
+      "language": "TypeScript",
+      "stars": 9348,
+      "forks": 773,
+      "todayStars": 1377,
+      "url": "https://github.com/InsForge/InsForge",
+      "avatar": ""
+    },
+    {
+      "name": "openai/symphony",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "language": "Elixir",
+      "stars": 23184,
+      "forks": 2178,
+      "todayStars": 2204,
+      "url": "https://github.com/openai/symphony",
+      "avatar": ""
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "stars": 30461,
+      "forks": 2589,
+      "todayStars": 4328,
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "avatar": ""
+    }
+  ]
+}
