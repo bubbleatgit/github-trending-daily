@@ -1,0 +1,166 @@
+{
+  "date": "2026-05-18",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 13890,
+      "forks": 1083,
+      "todayStars": 9007,
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "avatar": ""
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 11402,
+      "forks": 961,
+      "todayStars": 7103,
+      "url": "https://github.com/rohitg00/agentmemory",
+      "avatar": ""
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": 14756,
+      "forks": 2456,
+      "todayStars": 4687,
+      "url": "https://github.com/yikart/AiToEarn",
+      "avatar": ""
+    },
+    {
+      "name": "anthropics/financial-services",
+      "description": "No description available",
+      "language": "Python",
+      "stars": 24473,
+      "forks": 3374,
+      "todayStars": 5977,
+      "url": "https://github.com/anthropics/financial-services",
+      "avatar": ""
+    },
+    {
+      "name": "oven-sh/bun",
+      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "language": "Rust",
+      "stars": 91745,
+      "forks": 4578,
+      "todayStars": 2098,
+      "url": "https://github.com/oven-sh/bun",
+      "avatar": ""
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 9471,
+      "forks": 1041,
+      "todayStars": 3624,
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "avatar": ""
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "language": "Shell",
+      "stars": 89218,
+      "forks": 7802,
+      "todayStars": 19679,
+      "url": "https://github.com/mattpocock/skills",
+      "avatar": ""
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 59258,
+      "forks": 7735,
+      "todayStars": 6733,
+      "url": "https://github.com/ruvnet/RuView",
+      "avatar": ""
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "language": "TypeScript",
+      "stars": 34445,
+      "forks": 3449,
+      "todayStars": 2563,
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "avatar": ""
+    },
+    {
+      "name": "apernet/hysteria",
+      "description": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
+      "language": "Go",
+      "stars": 21102,
+      "forks": 2170,
+      "todayStars": 1124,
+      "url": "https://github.com/apernet/hysteria",
+      "avatar": ""
+    },
+    {
+      "name": "decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "language": "JavaScript",
+      "stars": 11660,
+      "forks": 1774,
+      "todayStars": 4458,
+      "url": "https://github.com/decolua/9router",
+      "avatar": ""
+    },
+    {
+      "name": "HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "language": "Python",
+      "stars": 17901,
+      "forks": 2732,
+      "todayStars": 2499,
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "avatar": ""
+    },
+    {
+      "name": "millionco/react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "language": "TypeScript",
+      "stars": 9976,
+      "forks": 315,
+      "todayStars": 2430,
+      "url": "https://github.com/millionco/react-doctor",
+      "avatar": ""
+    },
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "language": "Rust",
+      "stars": 31345,
+      "forks": 2642,
+      "todayStars": 7444,
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "avatar": ""
+    },
+    {
+      "name": "facebook/pyrefly",
+      "description": "A fast type checker and language server for Python",
+      "language": "Rust",
+      "stars": 6122,
+      "forks": 362,
+      "todayStars": 394,
+      "url": "https://github.com/facebook/pyrefly",
+      "avatar": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": 195272,
+      "forks": 17367,
+      "todayStars": 10094,
+      "url": "https://github.com/obra/superpowers",
+      "avatar": ""
+    }
+  ]
+}
