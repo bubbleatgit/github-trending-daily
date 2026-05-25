@@ -1,0 +1,176 @@
+{
+  "date": "2026-05-25",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 22408,
+      "forks": 1238,
+      "todayStars": 18136,
+      "url": "https://github.com/colbymchenry/codegraph",
+      "avatar": ""
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "stars": 27223,
+      "forks": 2526,
+      "todayStars": 15194,
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "avatar": ""
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 20692,
+      "forks": 1762,
+      "todayStars": 11401,
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "avatar": ""
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 16316,
+      "forks": 2884,
+      "todayStars": 6944,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "avatar": ""
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 65455,
+      "forks": 8654,
+      "todayStars": 6461,
+      "url": "https://github.com/ruvnet/RuView",
+      "avatar": ""
+    },
+    {
+      "name": "rohitg00/agentmemory",
+      "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "language": "TypeScript",
+      "stars": 17407,
+      "forks": 1424,
+      "todayStars": 6391,
+      "url": "https://github.com/rohitg00/agentmemory",
+      "avatar": ""
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": 26508,
+      "forks": 2278,
+      "todayStars": 9102,
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "avatar": ""
+    },
+    {
+      "name": "CloakHQ/CloakBrowser",
+      "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+      "language": "Python",
+      "stars": 20412,
+      "forks": 1613,
+      "todayStars": 6892,
+      "url": "https://github.com/CloakHQ/CloakBrowser",
+      "avatar": ""
+    },
+    {
+      "name": "supertone-inc/supertonic",
+      "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+      "language": "Swift",
+      "stars": 10201,
+      "forks": 1045,
+      "todayStars": 2726,
+      "url": "https://github.com/supertone-inc/supertonic",
+      "avatar": ""
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars": 7083,
+      "forks": 571,
+      "todayStars": 2361,
+      "url": "https://github.com/can1357/oh-my-pi",
+      "avatar": ""
+    },
+    {
+      "name": "datawhalechina/easy-vibe",
+      "description": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.",
+      "language": "JavaScript",
+      "stars": 14522,
+      "forks": 1383,
+      "todayStars": 2406,
+      "url": "https://github.com/datawhalechina/easy-vibe",
+      "avatar": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": 205094,
+      "forks": 18275,
+      "todayStars": 10171,
+      "url": "https://github.com/obra/superpowers",
+      "avatar": ""
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+      "language": "Python",
+      "stars": 25658,
+      "forks": 2681,
+      "todayStars": 2001,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "avatar": ""
+    },
+    {
+      "name": "stablyai/orca",
+      "description": "Orca is the next-gen IDE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars": 3259,
+      "forks": 220,
+      "todayStars": 554,
+      "url": "https://github.com/stablyai/orca",
+      "avatar": ""
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars": 40087,
+      "forks": 3784,
+      "todayStars": 4759,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "avatar": ""
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "stars": 16335,
+      "forks": 2633,
+      "todayStars": 1765,
+      "url": "https://github.com/yikart/AiToEarn",
+      "avatar": ""
+    },
+    {
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 745,
+      "forks": 85,
+      "todayStars": 303,
+      "url": "https://github.com/cursor/plugins",
+      "avatar": ""
+    }
+  ]
+}
