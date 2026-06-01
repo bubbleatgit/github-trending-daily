@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-01",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 74628,
+      "forks": 10629,
+      "todayStars": 15955,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "avatar": ""
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "stars": 47413,
+      "forks": 3855,
+      "todayStars": 22750,
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "avatar": ""
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 18461,
+      "forks": 2172,
+      "todayStars": 4944,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "avatar": ""
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "stars": 25933,
+      "forks": 4211,
+      "todayStars": 10586,
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "avatar": ""
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": "Unknown",
+      "stars": 7776,
+      "forks": 554,
+      "todayStars": 3770,
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "avatar": ""
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 135266,
+      "forks": 9241,
+      "todayStars": 9353,
+      "url": "https://github.com/microsoft/markitdown",
+      "avatar": ""
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": 29995,
+      "forks": 2223,
+      "todayStars": 10813,
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "avatar": ""
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "TypeScript",
+      "stars": 35550,
+      "forks": 2207,
+      "todayStars": 13925,
+      "url": "https://github.com/colbymchenry/codegraph",
+      "avatar": ""
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 12988,
+      "forks": 1520,
+      "todayStars": 4896,
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "avatar": ""
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 200752,
+      "forks": 30806,
+      "todayStars": 10473,
+      "url": "https://github.com/affaan-m/ECC",
+      "avatar": ""
+    },
+    {
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 1618,
+      "forks": 130,
+      "todayStars": 882,
+      "url": "https://github.com/cursor/plugins",
+      "avatar": ""
+    },
+    {
+      "name": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": 4660,
+      "forks": 654,
+      "todayStars": 957,
+      "url": "https://github.com/revfactory/harness",
+      "avatar": ""
+    },
+    {
+      "name": "p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "stars": 22771,
+      "forks": 2435,
+      "todayStars": 1417,
+      "url": "https://github.com/p-e-w/heretic",
+      "avatar": ""
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "language": "Python",
+      "stars": 3576,
+      "forks": 510,
+      "todayStars": 1657,
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "avatar": ""
+    },
+    {
+      "name": "Chachamaru127/claude-code-harness",
+      "description": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
+      "language": "Shell",
+      "stars": 2389,
+      "forks": 238,
+      "todayStars": 997,
+      "url": "https://github.com/Chachamaru127/claude-code-harness",
+      "avatar": ""
+    },
+    {
+      "name": "dograh-hq/dograh",
+      "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
+      "language": "Python",
+      "stars": 3994,
+      "forks": 797,
+      "todayStars": 1329,
+      "url": "https://github.com/dograh-hq/dograh",
+      "avatar": ""
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": 3433,
+      "forks": 225,
+      "todayStars": 1058,
+      "url": "https://github.com/ogulcancelik/herdr",
+      "avatar": ""
+    },
+    {
+      "name": "run-llama/liteparse",
+      "description": "A fast, helpful, and open-source document parser",
+      "language": "Rust",
+      "stars": 8374,
+      "forks": 495,
+      "todayStars": 3006,
+      "url": "https://github.com/run-llama/liteparse",
+      "avatar": ""
+    },
+    {
+      "name": "iii-hq/iii",
+      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+      "language": "Rust",
+      "stars": 17382,
+      "forks": 1141,
+      "todayStars": 1394,
+      "url": "https://github.com/iii-hq/iii",
+      "avatar": ""
+    }
+  ]
+}
