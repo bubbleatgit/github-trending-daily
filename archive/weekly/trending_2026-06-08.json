@@ -1,0 +1,196 @@
+{
+  "date": "2026-06-08",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 17082,
+      "forks": 1086,
+      "todayStars": 14272,
+      "url": "https://github.com/chopratejas/headroom",
+      "avatar": ""
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 147459,
+      "forks": 10109,
+      "todayStars": 13359,
+      "url": "https://github.com/microsoft/markitdown",
+      "avatar": ""
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": 81280,
+      "forks": 11571,
+      "todayStars": 7992,
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "avatar": ""
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "stars": 26038,
+      "forks": 2270,
+      "todayStars": 2924,
+      "url": "https://github.com/supermemoryai/supermemory",
+      "avatar": ""
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 209920,
+      "forks": 32178,
+      "todayStars": 10207,
+      "url": "https://github.com/affaan-m/ECC",
+      "avatar": ""
+    },
+    {
+      "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+      "language": "Python",
+      "stars": 10379,
+      "forks": 1222,
+      "todayStars": 2388,
+      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+      "avatar": ""
+    },
+    {
+      "name": "revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "language": "HTML",
+      "stars": 6433,
+      "forks": 871,
+      "todayStars": 1958,
+      "url": "https://github.com/revfactory/harness",
+      "avatar": ""
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 31401,
+      "forks": 2617,
+      "todayStars": 2718,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "avatar": ""
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": 36921,
+      "forks": 2658,
+      "todayStars": 6385,
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "avatar": ""
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "stars": 20401,
+      "forks": 1513,
+      "todayStars": 1762,
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "avatar": ""
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "language": "TypeScript",
+      "stars": 11109,
+      "forks": 936,
+      "todayStars": 2117,
+      "url": "https://github.com/can1357/oh-my-pi",
+      "avatar": ""
+    },
+    {
+      "name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 2067,
+      "forks": 273,
+      "todayStars": 595,
+      "url": "https://github.com/openai/plugins",
+      "avatar": ""
+    },
+    {
+      "name": "aquasecurity/trivy",
+      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+      "language": "Go",
+      "stars": 36116,
+      "forks": 457,
+      "todayStars": 844,
+      "url": "https://github.com/aquasecurity/trivy",
+      "avatar": ""
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 23246,
+      "forks": 1960,
+      "todayStars": 2289,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "avatar": ""
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "stars": 186090,
+      "forks": 32008,
+      "todayStars": 11427,
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "avatar": ""
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": 27356,
+      "forks": 3106,
+      "todayStars": 2993,
+      "url": "https://github.com/lfnovo/open-notebook",
+      "avatar": ""
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 35627,
+      "forks": 1942,
+      "todayStars": 3586,
+      "url": "https://github.com/pbakaus/impeccable",
+      "avatar": ""
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "language": "Python",
+      "stars": 13865,
+      "forks": 1706,
+      "todayStars": 4281,
+      "url": "https://github.com/nesquena/hermes-webui",
+      "avatar": ""
+    },
+    {
+      "name": "dmtrKovalenko/fff",
+      "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+      "language": "Rust",
+      "stars": 7684,
+      "forks": 310,
+      "todayStars": 879,
+      "url": "https://github.com/dmtrKovalenko/fff",
+      "avatar": ""
+    }
+  ]
+}
