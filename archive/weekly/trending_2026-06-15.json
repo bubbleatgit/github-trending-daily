@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-15",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 42104,
+      "forks": 3425,
+      "todayStars": 12053,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "avatar": ""
+    },
+    {
+      "name": "apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "language": "Swift",
+      "stars": 37037,
+      "forks": 1063,
+      "todayStars": 10021,
+      "url": "https://github.com/apple/container",
+      "avatar": ""
+    },
+    {
+      "name": "phuryn/pm-skills",
+      "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+      "language": "Unknown",
+      "stars": 18155,
+      "forks": 1866,
+      "todayStars": 5713,
+      "url": "https://github.com/phuryn/pm-skills",
+      "avatar": ""
+    },
+    {
+      "name": "chopratejas/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "language": "Python",
+      "stars": 27700,
+      "forks": 1875,
+      "todayStars": 10653,
+      "url": "https://github.com/chopratejas/headroom",
+      "avatar": ""
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "language": "Python",
+      "stars": 5419,
+      "forks": 415,
+      "todayStars": 3669,
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "avatar": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "stars": 59580,
+      "forks": 6456,
+      "todayStars": 10445,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "avatar": ""
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 28862,
+      "forks": 2368,
+      "todayStars": 5468,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "avatar": ""
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "description": "Desktop app to manage markdown knowledge bases",
+      "language": "TypeScript",
+      "stars": 16241,
+      "forks": 1112,
+      "todayStars": 3592,
+      "url": "https://github.com/refactoringhq/tolaria",
+      "avatar": ""
+    },
+    {
+      "name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 3040,
+      "forks": 354,
+      "todayStars": 1085,
+      "url": "https://github.com/openai/plugins",
+      "avatar": ""
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "language": "Shell",
+      "stars": 43780,
+      "forks": 3059,
+      "todayStars": 7591,
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "avatar": ""
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 153435,
+      "forks": 10608,
+      "todayStars": 6280,
+      "url": "https://github.com/microsoft/markitdown",
+      "avatar": ""
+    },
+    {
+      "name": "aaif-goose/goose",
+      "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+      "language": "Rust",
+      "stars": 49390,
+      "forks": 5218,
+      "todayStars": 2165,
+      "url": "https://github.com/aaif-goose/goose",
+      "avatar": ""
+    },
+    {
+      "name": "roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "stars": 44212,
+      "forks": 3927,
+      "todayStars": 3315,
+      "url": "https://github.com/roboflow/supervision",
+      "avatar": ""
+    },
+    {
+      "name": "music-assistant/server",
+      "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "language": "Python",
+      "stars": 2209,
+      "forks": 437,
+      "todayStars": 504,
+      "url": "https://github.com/music-assistant/server",
+      "avatar": ""
+    },
+    {
+      "name": "safishamsi/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "stars": 67207,
+      "forks": 6806,
+      "todayStars": 5478,
+      "url": "https://github.com/safishamsi/graphify",
+      "avatar": ""
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "stars": 134895,
+      "forks": 8096,
+      "todayStars": 1042,
+      "url": "https://github.com/microsoft/PowerToys",
+      "avatar": ""
+    },
+    {
+      "name": "mattermost/mattermost",
+      "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+      "language": "TypeScript",
+      "stars": 37825,
+      "forks": 8733,
+      "todayStars": 779,
+      "url": "https://github.com/mattermost/mattermost",
+      "avatar": ""
+    },
+    {
+      "name": "lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "stars": 30571,
+      "forks": 3467,
+      "todayStars": 3468,
+      "url": "https://github.com/lfnovo/open-notebook",
+      "avatar": ""
+    },
+    {
+      "name": "opencv/opencv",
+      "description": "Open Source Computer Vision Library",
+      "language": "C++",
+      "stars": 89135,
+      "forks": 56656,
+      "todayStars": 1227,
+      "url": "https://github.com/opencv/opencv",
+      "avatar": ""
+    },
+    {
+      "name": "huggingface/OpenEnv",
+      "description": "An interface library for RL post training with environments.",
+      "language": "Python",
+      "stars": 2222,
+      "forks": 394,
+      "todayStars": 276,
+      "url": "https://github.com/huggingface/OpenEnv",
+      "avatar": ""
+    }
+  ]
+}
