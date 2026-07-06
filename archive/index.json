@@ -1,6 +1,10 @@
 {
   "daily": [
     {
+      "date": "2026-07-06",
+      "path": "archive/daily/trending_2026-07-06.json"
+    },
+    {
       "date": "2026-07-05",
       "path": "archive/daily/trending_2026-07-05.json"
     },
@@ -330,6 +334,10 @@
     }
   ],
   "weekly": [
+    {
+      "date": "2026-07-06",
+      "path": "archive/weekly/trending_2026-07-06.json"
+    },
     {
       "date": "2026-06-29",
       "path": "archive/weekly/trending_2026-06-29.json"
