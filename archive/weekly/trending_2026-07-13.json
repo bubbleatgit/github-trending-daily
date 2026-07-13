@@ -1,0 +1,216 @@
+{
+  "date": "2026-07-13",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
+      "language": "Rust",
+      "stars": 23609,
+      "forks": 2488,
+      "todayStars": 7440,
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "avatar": ""
+    },
+    {
+      "name": "wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "stars": 8006,
+      "forks": 985,
+      "todayStars": 1678,
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "avatar": ""
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "language": "JavaScript",
+      "stars": 28078,
+      "forks": 1837,
+      "todayStars": 2803,
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "avatar": ""
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "language": "Rust",
+      "stars": 9813,
+      "forks": 964,
+      "todayStars": 2490,
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "avatar": ""
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "stars": 17946,
+      "forks": 3217,
+      "todayStars": 600,
+      "url": "https://github.com/abseil/abseil-cpp",
+      "avatar": ""
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "language": "Rust",
+      "stars": 15809,
+      "forks": 1061,
+      "todayStars": 3928,
+      "url": "https://github.com/ogulcancelik/herdr",
+      "avatar": ""
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "language": "JavaScript",
+      "stars": 56757,
+      "forks": 9384,
+      "todayStars": 7155,
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "avatar": ""
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "language": "TypeScript",
+      "stars": 16247,
+      "forks": 2478,
+      "todayStars": 4506,
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "avatar": ""
+    },
+    {
+      "name": "stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "language": "TypeScript",
+      "stars": 17070,
+      "forks": 1338,
+      "todayStars": 4481,
+      "url": "https://github.com/stablyai/orca",
+      "avatar": ""
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "language": "Python",
+      "stars": 7848,
+      "forks": 876,
+      "todayStars": 4353,
+      "url": "https://github.com/bradautomates/claude-video",
+      "avatar": ""
+    },
+    {
+      "name": "facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 8205,
+      "forks": 691,
+      "todayStars": 2397,
+      "url": "https://github.com/facebook/astryx",
+      "avatar": ""
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 15459,
+      "forks": 1056,
+      "todayStars": 6978,
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "avatar": ""
+    },
+    {
+      "name": "usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "language": "Python",
+      "stars": 40871,
+      "forks": 4314,
+      "todayStars": 4143,
+      "url": "https://github.com/usestrix/strix",
+      "avatar": ""
+    },
+    {
+      "name": "tt-a1i/archify",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "language": "JavaScript",
+      "stars": 3932,
+      "forks": 379,
+      "todayStars": 1180,
+      "url": "https://github.com/tt-a1i/archify",
+      "avatar": ""
+    },
+    {
+      "name": "alibaba/page-agent",
+      "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "language": "TypeScript",
+      "stars": 26233,
+      "forks": 2415,
+      "todayStars": 2666,
+      "url": "https://github.com/alibaba/page-agent",
+      "avatar": ""
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "description": "345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
+      "language": "Python",
+      "stars": 22390,
+      "forks": 3120,
+      "todayStars": 1993,
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "avatar": ""
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 46775,
+      "forks": 3202,
+      "todayStars": 872,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "avatar": ""
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "stars": 20182,
+      "forks": 2685,
+      "todayStars": 1989,
+      "url": "https://github.com/vxcontrol/pentagi",
+      "avatar": ""
+    },
+    {
+      "name": "ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "stars": 80264,
+      "forks": 10813,
+      "todayStars": 3763,
+      "url": "https://github.com/ruvnet/RuView",
+      "avatar": ""
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "language": "JavaScript",
+      "stars": 88562,
+      "forks": 5089,
+      "todayStars": 3992,
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "avatar": ""
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "JavaScript",
+      "stars": 46002,
+      "forks": 2785,
+      "todayStars": 2272,
+      "url": "https://github.com/pbakaus/impeccable",
+      "avatar": ""
+    }
+  ]
+}
