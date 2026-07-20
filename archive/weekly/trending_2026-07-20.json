@@ -1,0 +1,146 @@
+{
+  "date": "2026-07-20",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 13418,
+      "forks": 677,
+      "todayStars": 9193,
+      "url": "https://github.com/Nutlope/hallmark",
+      "avatar": ""
+    },
+    {
+      "name": "OpenCut-app/OpenCut",
+      "description": "The open-source CapCut alternative",
+      "language": "TypeScript",
+      "stars": 75911,
+      "forks": 7629,
+      "todayStars": 12743,
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "avatar": ""
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
+      "language": "Python",
+      "stars": 124582,
+      "forks": 18399,
+      "todayStars": 6211,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "avatar": ""
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "language": "Python",
+      "stars": 25314,
+      "forks": 4169,
+      "todayStars": 5228,
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "avatar": ""
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "language": "Python",
+      "stars": 27962,
+      "forks": 3705,
+      "todayStars": 2375,
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "avatar": ""
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 177576,
+      "forks": 15218,
+      "todayStars": 10983,
+      "url": "https://github.com/mattpocock/skills",
+      "avatar": ""
+    },
+    {
+      "name": "kangarooking/cangjie-skill",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "language": "Python",
+      "stars": 3841,
+      "forks": 540,
+      "todayStars": 1284,
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "avatar": ""
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "stars": 19689,
+      "forks": 1323,
+      "todayStars": 4269,
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "avatar": ""
+    },
+    {
+      "name": "ibelick/ui-skills",
+      "description": "Skills for Design Engineers",
+      "language": "TypeScript",
+      "stars": 5443,
+      "forks": 232,
+      "todayStars": 1669,
+      "url": "https://github.com/ibelick/ui-skills",
+      "avatar": ""
+    },
+    {
+      "name": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "stars": 99720,
+      "forks": 14921,
+      "todayStars": 2361,
+      "url": "https://github.com/openai/codex",
+      "avatar": ""
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3",
+      "language": "Rust",
+      "stars": 66846,
+      "forks": 5741,
+      "todayStars": 2498,
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "avatar": ""
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "stars": 21330,
+      "forks": 2187,
+      "todayStars": 1103,
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "avatar": ""
+    },
+    {
+      "name": "earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars": 72806,
+      "forks": 8989,
+      "todayStars": 2854,
+      "url": "https://github.com/earendil-works/pi",
+      "avatar": ""
+    },
+    {
+      "name": "anthropics/cwc-workshops",
+      "description": "No description available",
+      "language": "TypeScript",
+      "stars": 1770,
+      "forks": 497,
+      "todayStars": 317,
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "avatar": ""
+    }
+  ]
+}
