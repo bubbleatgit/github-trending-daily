@@ -1,0 +1,166 @@
+{
+  "date": "2026-08-17",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "stars": 19514,
+      "forks": 1199,
+      "todayStars": 15600,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "avatar": ""
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": 8183,
+      "forks": 838,
+      "todayStars": 5284,
+      "url": "https://github.com/semantica-agi/semantica",
+      "avatar": ""
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "stars": 16570,
+      "forks": 1785,
+      "todayStars": 6435,
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "avatar": ""
+    },
+    {
+      "name": "NVIDIA-NeMo/Switchyard",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "language": "Rust",
+      "stars": 1685,
+      "forks": 153,
+      "todayStars": 1435,
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "avatar": ""
+    },
+    {
+      "name": "megadose/holehe",
+      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "language": "Python",
+      "stars": 13291,
+      "forks": 1756,
+      "todayStars": 1287,
+      "url": "https://github.com/megadose/holehe",
+      "avatar": ""
+    },
+    {
+      "name": "cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "stars": 6563,
+      "forks": 433,
+      "todayStars": 2950,
+      "url": "https://github.com/cactus-compute/needle",
+      "avatar": ""
+    },
+    {
+      "name": "macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "language": "Rust",
+      "stars": 3407,
+      "forks": 338,
+      "todayStars": 2588,
+      "url": "https://github.com/macro-inc/macro",
+      "avatar": ""
+    },
+    {
+      "name": "vitali87/code-graph-rag",
+      "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+      "language": "Python",
+      "stars": 4429,
+      "forks": 598,
+      "todayStars": 1686,
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "avatar": ""
+    },
+    {
+      "name": "ToolJet/ToolJet",
+      "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+      "language": "JavaScript",
+      "stars": 40025,
+      "forks": 5330,
+      "todayStars": 1518,
+      "url": "https://github.com/ToolJet/ToolJet",
+      "avatar": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 87753,
+      "forks": 9404,
+      "todayStars": 2882,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "avatar": ""
+    },
+    {
+      "name": "3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": 91348,
+      "forks": 7555,
+      "todayStars": 1978,
+      "url": "https://github.com/3b1b/manim",
+      "avatar": ""
+    },
+    {
+      "name": "basecamp/omarchy",
+      "description": "Beautiful, Modern &amp; Opinionated Linux",
+      "language": "Shell",
+      "stars": 25375,
+      "forks": 2589,
+      "todayStars": 759,
+      "url": "https://github.com/basecamp/omarchy",
+      "avatar": ""
+    },
+    {
+      "name": "unslothai/unsloth",
+      "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+      "language": "Python",
+      "stars": 72572,
+      "forks": 6545,
+      "todayStars": 2645,
+      "url": "https://github.com/unslothai/unsloth",
+      "avatar": ""
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "stars": 22228,
+      "forks": 2038,
+      "todayStars": 3637,
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "avatar": ""
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "language": "Python",
+      "stars": 9056,
+      "forks": 1429,
+      "todayStars": 497,
+      "url": "https://github.com/Lightricks/LTX-2",
+      "avatar": ""
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": 78509,
+      "forks": 14384,
+      "todayStars": 2499,
+      "url": "https://github.com/paperclipai/paperclip",
+      "avatar": ""
+    }
+  ]
+}
