@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-07",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars": 50924,
+      "forks": 3319,
+      "todayStars": 17190,
+      "url": "https://github.com/tt-a1i/archify",
+      "avatar": ""
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "language": "TypeScript",
+      "stars": 3703,
+      "forks": 261,
+      "todayStars": 1961,
+      "url": "https://github.com/magnitudedev/magnitude",
+      "avatar": ""
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": 32451,
+      "forks": 5302,
+      "todayStars": 9193,
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "avatar": ""
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 32849,
+      "forks": 9059,
+      "todayStars": 1944,
+      "url": "https://github.com/Gitlawb/openclaude",
+      "avatar": ""
+    },
+    {
+      "name": "pollen-robotics/microduck_rl",
+      "description": "RL training environments for Microduck (mjlab)",
+      "language": "Python",
+      "stars": 1826,
+      "forks": 364,
+      "todayStars": 1122,
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "avatar": ""
+    },
+    {
+      "name": "google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "stars": 31657,
+      "forks": 3029,
+      "todayStars": 3203,
+      "url": "https://github.com/google-research/timesfm",
+      "avatar": ""
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars": 59174,
+      "forks": 7682,
+      "todayStars": 3816,
+      "url": "https://github.com/jingyaogong/minimind",
+      "avatar": ""
+    },
+    {
+      "name": "fmtlib/fmt",
+      "description": "A modern formatting library",
+      "language": "C++",
+      "stars": 25625,
+      "forks": 3045,
+      "todayStars": 1885,
+      "url": "https://github.com/fmtlib/fmt",
+      "avatar": ""
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 19896,
+      "forks": 2516,
+      "todayStars": 7513,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "avatar": ""
+    },
+    {
+      "name": "handsomestWei/patent-disclosure-skill",
+      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "language": "Python",
+      "stars": 7872,
+      "forks": 847,
+      "todayStars": 2093,
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "avatar": ""
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 43311,
+      "forks": 3947,
+      "todayStars": 4718,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "avatar": ""
+    },
+    {
+      "name": "tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "language": "Go",
+      "stars": 6558,
+      "forks": 251,
+      "todayStars": 2467,
+      "url": "https://github.com/tailscale/tailcat",
+      "avatar": ""
+    },
+    {
+      "name": "colinhacks/zod",
+      "description": "TypeScript-first schema validation with static type inference",
+      "language": "TypeScript",
+      "stars": 43863,
+      "forks": 2178,
+      "todayStars": 277,
+      "url": "https://github.com/colinhacks/zod",
+      "avatar": ""
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 51165,
+      "forks": 3590,
+      "todayStars": 965,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "avatar": ""
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 251434,
+      "forks": 37790,
+      "todayStars": 6394,
+      "url": "https://github.com/affaan-m/ECC",
+      "avatar": ""
+    },
+    {
+      "name": "Lakr233/vphone-cli",
+      "description": "No description available",
+      "language": "Swift",
+      "stars": 10978,
+      "forks": 1398,
+      "todayStars": 1478,
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "avatar": ""
+    },
+    {
+      "name": "every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "stars": 17510,
+      "forks": 2211,
+      "todayStars": 2503,
+      "url": "https://github.com/every-app/open-seo",
+      "avatar": ""
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 129486,
+      "forks": 6935,
+      "todayStars": 12186,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "avatar": ""
+    },
+    {
+      "name": "majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "language": "Go",
+      "stars": 10973,
+      "forks": 914,
+      "todayStars": 893,
+      "url": "https://github.com/majd/ipatool",
+      "avatar": ""
+    },
+    {
+      "name": "punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "language": "Unknown",
+      "stars": 94487,
+      "forks": 15769,
+      "todayStars": 1326,
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "avatar": ""
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 46583,
+      "forks": 3650,
+      "todayStars": 2334,
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "avatar": ""
+    }
+  ]
+}
