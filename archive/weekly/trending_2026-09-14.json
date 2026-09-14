@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-14",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 44422,
+      "forks": 2554,
+      "todayStars": 16740,
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "avatar": ""
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 257792,
+      "forks": 38554,
+      "todayStars": 7264,
+      "url": "https://github.com/affaan-m/ECC",
+      "avatar": ""
+    },
+    {
+      "name": "openai/plugins",
+      "description": "OpenAI Plugins",
+      "language": "JavaScript",
+      "stars": 6625,
+      "forks": 872,
+      "todayStars": 1181,
+      "url": "https://github.com/openai/plugins",
+      "avatar": ""
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 32039,
+      "forks": 6429,
+      "todayStars": 12931,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "avatar": ""
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 22652,
+      "forks": 1632,
+      "todayStars": 2102,
+      "url": "https://github.com/mksglu/context-mode",
+      "avatar": ""
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 137420,
+      "forks": 7381,
+      "todayStars": 8444,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "avatar": ""
+    },
+    {
+      "name": "tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+      "language": "JavaScript",
+      "stars": 60911,
+      "forks": 4002,
+      "todayStars": 10132,
+      "url": "https://github.com/tt-a1i/archify",
+      "avatar": ""
+    },
+    {
+      "name": "openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "stars": 27106,
+      "forks": 1809,
+      "todayStars": 1622,
+      "url": "https://github.com/openai/skills",
+      "avatar": ""
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 49643,
+      "forks": 4534,
+      "todayStars": 5146,
+      "url": "https://github.com/heygen-com/hyperframes",
+      "avatar": ""
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 183632,
+      "forks": 13513,
+      "todayStars": 5191,
+      "url": "https://github.com/microsoft/markitdown",
+      "avatar": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": 286229,
+      "forks": 25605,
+      "todayStars": 4068,
+      "url": "https://github.com/obra/superpowers",
+      "avatar": ""
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "stars": 50016,
+      "forks": 7591,
+      "todayStars": 2678,
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "avatar": ""
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 51850,
+      "forks": 3641,
+      "todayStars": 736,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "avatar": ""
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 39274,
+      "forks": 2493,
+      "todayStars": 7129,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "avatar": ""
+    },
+    {
+      "name": "THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": 36508,
+      "forks": 5786,
+      "todayStars": 4202,
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "avatar": ""
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars": 22905,
+      "forks": 3269,
+      "todayStars": 1302,
+      "url": "https://github.com/Tencent/WeKnora",
+      "avatar": ""
+    },
+    {
+      "name": "blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 47692,
+      "forks": 3880,
+      "todayStars": 3673,
+      "url": "https://github.com/blader/humanizer",
+      "avatar": ""
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars": 7533,
+      "forks": 269,
+      "todayStars": 588,
+      "url": "https://github.com/max-sixty/worktrunk",
+      "avatar": ""
+    },
+    {
+      "name": "humanlayer/skills",
+      "description": "No description available",
+      "language": "TypeScript",
+      "stars": 4005,
+      "forks": 121,
+      "todayStars": 1004,
+      "url": "https://github.com/humanlayer/skills",
+      "avatar": ""
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "description": "A library of agent skills for CAD, CAE and CAM",
+      "language": "Python",
+      "stars": 15602,
+      "forks": 1612,
+      "todayStars": 1054,
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "avatar": ""
+    },
+    {
+      "name": "petergyang/no-ai-slop",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "language": "Python",
+      "stars": 9215,
+      "forks": 673,
+      "todayStars": 1668,
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "avatar": ""
+    },
+    {
+      "name": "github/spec-kit",
+      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "language": "Python",
+      "stars": 136441,
+      "forks": 12252,
+      "todayStars": 2642,
+      "url": "https://github.com/github/spec-kit",
+      "avatar": ""
+    },
+    {
+      "name": "kunchenguid/firstmate",
+      "description": "Talk to one agent. Ship with a crew.",
+      "language": "Shell",
+      "stars": 5761,
+      "forks": 1788,
+      "todayStars": 778,
+      "url": "https://github.com/kunchenguid/firstmate",
+      "avatar": ""
+    }
+  ]
+}
