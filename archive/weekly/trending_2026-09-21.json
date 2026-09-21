@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-21",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "language": "Go",
+      "stars": 38470,
+      "forks": 2741,
+      "todayStars": 15504,
+      "url": "https://github.com/alibaba/open-code-review",
+      "avatar": ""
+    },
+    {
+      "name": "anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "language": "TypeScript",
+      "stars": 147172,
+      "forks": 24072,
+      "todayStars": 2342,
+      "url": "https://github.com/anthropics/claude-code",
+      "avatar": ""
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 263826,
+      "forks": 39469,
+      "todayStars": 6453,
+      "url": "https://github.com/affaan-m/ECC",
+      "avatar": ""
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "stars": 28080,
+      "forks": 3775,
+      "todayStars": 5242,
+      "url": "https://github.com/Tencent/WeKnora",
+      "avatar": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 97740,
+      "forks": 10297,
+      "todayStars": 3986,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "avatar": ""
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": 25290,
+      "forks": 3007,
+      "todayStars": 1298,
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "avatar": ""
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 39697,
+      "forks": 8033,
+      "todayStars": 8111,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "avatar": ""
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 23777,
+      "forks": 1715,
+      "todayStars": 1242,
+      "url": "https://github.com/mksglu/context-mode",
+      "avatar": ""
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "stars": 8215,
+      "forks": 284,
+      "todayStars": 822,
+      "url": "https://github.com/max-sixty/worktrunk",
+      "avatar": ""
+    },
+    {
+      "name": "home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "language": "Python",
+      "stars": 90898,
+      "forks": 38714,
+      "todayStars": 480,
+      "url": "https://github.com/home-assistant/core",
+      "avatar": ""
+    },
+    {
+      "name": "blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "stars": 50660,
+      "forks": 4076,
+      "todayStars": 3045,
+      "url": "https://github.com/blader/humanizer",
+      "avatar": ""
+    },
+    {
+      "name": "stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars": 73710,
+      "forks": 4829,
+      "todayStars": 5841,
+      "url": "https://github.com/stablyai/orca",
+      "avatar": ""
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "stars": 83882,
+      "forks": 7352,
+      "todayStars": 3690,
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "avatar": ""
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 51978,
+      "forks": 4735,
+      "todayStars": 2546,
+      "url": "https://github.com/heygen-com/hyperframes",
+      "avatar": ""
+    },
+    {
+      "name": "danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "stars": 44491,
+      "forks": 9139,
+      "todayStars": 1600,
+      "url": "https://github.com/danny-avila/LibreChat",
+      "avatar": ""
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "stars": 49282,
+      "forks": 2853,
+      "todayStars": 5249,
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "avatar": ""
+    },
+    {
+      "name": "cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "stars": 68894,
+      "forks": 7464,
+      "todayStars": 1167,
+      "url": "https://github.com/cline/cline",
+      "avatar": ""
+    },
+    {
+      "name": "petergyang/no-ai-slop",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "language": "Python",
+      "stars": 10834,
+      "forks": 738,
+      "todayStars": 1819,
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "avatar": ""
+    },
+    {
+      "name": "supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "stars": 110443,
+      "forks": 14485,
+      "todayStars": 1484,
+      "url": "https://github.com/supabase/supabase",
+      "avatar": ""
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": 185959,
+      "forks": 13691,
+      "todayStars": 2521,
+      "url": "https://github.com/microsoft/markitdown",
+      "avatar": ""
+    },
+    {
+      "name": "cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "stars": 25390,
+      "forks": 4085,
+      "todayStars": 373,
+      "url": "https://github.com/cilium/cilium",
+      "avatar": ""
+    }
+  ]
+}
