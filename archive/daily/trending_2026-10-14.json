@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-14",
+  "type": "daily",
+  "repos": [
+    {
+      "name": "morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "language": "TypeScript",
+      "stars": 211470,
+      "forks": 51939,
+      "todayStars": 54679,
+      "url": "https://github.com/morluto/rea",
+      "avatar": ""
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": 55555,
+      "forks": 10850,
+      "todayStars": 1961,
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "avatar": ""
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 63619,
+      "forks": 7068,
+      "todayStars": 1748,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "avatar": ""
+    },
+    {
+      "name": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 28335,
+      "forks": 1997,
+      "todayStars": 969,
+      "url": "https://github.com/mksglu/context-mode",
+      "avatar": ""
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "stars": 54311,
+      "forks": 3442,
+      "todayStars": 1815,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "avatar": ""
+    },
+    {
+      "name": "vercel-labs/skills",
+      "description": "The open agent skills tool - npx skills",
+      "language": "TypeScript",
+      "stars": 34588,
+      "forks": 2953,
+      "todayStars": 190,
+      "url": "https://github.com/vercel-labs/skills",
+      "avatar": ""
+    },
+    {
+      "name": "lyogavin/airllm",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "language": "Unknown",
+      "stars": 38391,
+      "forks": 3927,
+      "todayStars": 1001,
+      "url": "https://github.com/lyogavin/airllm",
+      "avatar": ""
+    },
+    {
+      "name": "storytold/artcraft",
+      "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "language": "Rust",
+      "stars": 25929,
+      "forks": 4070,
+      "todayStars": 4081,
+      "url": "https://github.com/storytold/artcraft",
+      "avatar": ""
+    },
+    {
+      "name": "xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "stars": 9520,
+      "forks": 406,
+      "todayStars": 1198,
+      "url": "https://github.com/xtool-org/xtool",
+      "avatar": ""
+    }
+  ]
+}
