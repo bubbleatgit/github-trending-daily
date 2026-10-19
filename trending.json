@@ -1,135 +1,135 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "type": "daily",
   "repos": [
-    {
-      "name": "anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "stars": 41820,
-      "forks": 4467,
-      "todayStars": 1397,
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "avatar": ""
-    },
     {
       "name": "MadsLorentzen/ai-job-search",
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
-      "stars": 50509,
-      "forks": 16950,
-      "todayStars": 1365,
+      "stars": 53511,
+      "forks": 17428,
+      "todayStars": 2232,
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatar": ""
     },
     {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars": 282554,
-      "forks": 41990,
-      "todayStars": 1145,
-      "url": "https://github.com/affaan-m/ECC",
-      "avatar": ""
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "name": "anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars": 54090,
-      "forks": 4906,
-      "todayStars": 574,
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "avatar": ""
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "stars": 52281,
-      "forks": 4630,
-      "todayStars": 878,
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "avatar": ""
-    },
-    {
-      "name": "akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "stars": 9945,
-      "forks": 721,
-      "todayStars": 178,
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "avatar": ""
-    },
-    {
-      "name": "android/skills",
-      "description": "No description available",
-      "language": "Kotlin",
-      "stars": 8444,
-      "forks": 555,
-      "todayStars": 355,
-      "url": "https://github.com/android/skills",
-      "avatar": ""
-    },
-    {
-      "name": "stablyai/orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "stars": 95476,
-      "forks": 6114,
-      "todayStars": 830,
-      "url": "https://github.com/stablyai/orca",
-      "avatar": ""
-    },
-    {
-      "name": "anthropics/claude-code",
-      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "language": "TypeScript",
-      "stars": 151792,
-      "forks": 26880,
-      "todayStars": 179,
-      "url": "https://github.com/anthropics/claude-code",
-      "avatar": ""
-    },
-    {
-      "name": "debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "language": "Python",
-      "stars": 73477,
-      "forks": 8042,
-      "todayStars": 2125,
-      "url": "https://github.com/debpalash/VoiceStudio",
+      "stars": 42762,
+      "forks": 4538,
+      "todayStars": 1175,
+      "url": "https://github.com/anthropics/claude-plugins-official",
       "avatar": ""
     },
     {
       "name": "anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars": 215419,
-      "forks": 28865,
-      "todayStars": 438,
+      "stars": 216690,
+      "forks": 29010,
+      "todayStars": 1414,
       "url": "https://github.com/anomalyco/opencode",
+      "avatar": ""
+    },
+    {
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 12778,
+      "forks": 1258,
+      "todayStars": 350,
+      "url": "https://github.com/cursor/plugins",
       "avatar": ""
     },
     {
       "name": "ruvnet/ruflo",
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "language": "TypeScript",
-      "stars": 76101,
-      "forks": 9002,
-      "todayStars": 420,
+      "stars": 76574,
+      "forks": 9056,
+      "todayStars": 513,
       "url": "https://github.com/ruvnet/ruflo",
       "avatar": ""
     },
     {
-      "name": "xerj-org/xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "name": "akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
-      "stars": 7843,
-      "forks": 417,
-      "todayStars": 1160,
-      "url": "https://github.com/xerj-org/xerj",
+      "stars": 10552,
+      "forks": 754,
+      "todayStars": 512,
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "avatar": ""
+    },
+    {
+      "name": "stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "stars": 96796,
+      "forks": 6180,
+      "todayStars": 1146,
+      "url": "https://github.com/stablyai/orca",
+      "avatar": ""
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars": 54650,
+      "forks": 4950,
+      "todayStars": 589,
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "avatar": ""
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 75585,
+      "forks": 8280,
+      "todayStars": 2082,
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "avatar": ""
+    },
+    {
+      "name": "android/skills",
+      "description": "No description available",
+      "language": "Kotlin",
+      "stars": 8810,
+      "forks": 568,
+      "todayStars": 375,
+      "url": "https://github.com/android/skills",
+      "avatar": ""
+    },
+    {
+      "name": "mlabonne/llm-course",
+      "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "language": "Unknown",
+      "stars": 84081,
+      "forks": 9785,
+      "todayStars": 81,
+      "url": "https://github.com/mlabonne/llm-course",
+      "avatar": ""
+    },
+    {
+      "name": "Kruk2/jasna",
+      "description": "Video restoration tool",
+      "language": "Python",
+      "stars": 2464,
+      "forks": 191,
+      "todayStars": 115,
+      "url": "https://github.com/Kruk2/jasna",
+      "avatar": ""
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "language": "Python",
+      "stars": 138691,
+      "forks": 16506,
+      "todayStars": 154,
+      "url": "https://github.com/Comfy-Org/ComfyUI",
       "avatar": ""
     }
   ]
