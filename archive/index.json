@@ -1,6 +1,10 @@
 {
   "daily": [
     {
+      "date": "2026-10-23",
+      "path": "archive/daily/trending_2026-10-23.json"
+    },
+    {
       "date": "2026-10-22",
       "path": "archive/daily/trending_2026-10-22.json"
     },
