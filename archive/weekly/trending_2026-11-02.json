@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-02",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": 45046,
+      "forks": 2393,
+      "todayStars": 11566,
+      "url": "https://github.com/Nutlope/hallmark",
+      "avatar": ""
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars": 99517,
+      "forks": 5884,
+      "todayStars": 12017,
+      "url": "https://github.com/pbakaus/impeccable",
+      "avatar": ""
+    },
+    {
+      "name": "AgriciDaniel/claude-seo",
+      "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "language": "Python",
+      "stars": 25611,
+      "forks": 3362,
+      "todayStars": 5034,
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "avatar": ""
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "language": "TypeScript",
+      "stars": 109535,
+      "forks": 9578,
+      "todayStars": 5852,
+      "url": "https://github.com/thedotmack/claude-mem",
+      "avatar": ""
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": 56511,
+      "forks": 3683,
+      "todayStars": 10069,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "avatar": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": 310711,
+      "forks": 27652,
+      "todayStars": 5896,
+      "url": "https://github.com/obra/superpowers",
+      "avatar": ""
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "language": "TypeScript",
+      "stars": 7005,
+      "forks": 398,
+      "todayStars": 5760,
+      "url": "https://github.com/JetBrains/thinkrail",
+      "avatar": ""
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "description": "No description available",
+      "language": "TypeScript",
+      "stars": 38402,
+      "forks": 8938,
+      "todayStars": 6926,
+      "url": "https://github.com/pingdotgg/t3code",
+      "avatar": ""
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "Unknown",
+      "stars": 228065,
+      "forks": 22749,
+      "todayStars": 4459,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "avatar": ""
+    },
+    {
+      "name": "jakubkrehel/skills",
+      "description": "A collection of agent skills that help you build great interfaces.",
+      "language": "Markdown",
+      "stars": 10129,
+      "forks": 394,
+      "todayStars": 1607,
+      "url": "https://github.com/jakubkrehel/skills",
+      "avatar": ""
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": 119592,
+      "forks": 22872,
+      "todayStars": 5432,
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "avatar": ""
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "language": "JavaScript",
+      "stars": 107933,
+      "forks": 7284,
+      "todayStars": 5336,
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "avatar": ""
+    },
+    {
+      "name": "anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "language": "Python",
+      "stars": 186422,
+      "forks": 22027,
+      "todayStars": 2600,
+      "url": "https://github.com/anthropics/skills",
+      "avatar": ""
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 294889,
+      "forks": 43650,
+      "todayStars": 6299,
+      "url": "https://github.com/affaan-m/ECC",
+      "avatar": ""
+    },
+    {
+      "name": "YuJunZhiXue/dsh-purge",
+      "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "language": "JavaScript",
+      "stars": 15505,
+      "forks": 3567,
+      "todayStars": 6644,
+      "url": "https://github.com/YuJunZhiXue/dsh-purge",
+      "avatar": ""
+    },
+    {
+      "name": "ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "stars": 63203,
+      "forks": 3817,
+      "todayStars": 589,
+      "url": "https://github.com/ghostty-org/ghostty",
+      "avatar": ""
+    }
+  ]
+}
