@@ -1,105 +1,135 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "type": "daily",
   "repos": [
     {
-      "name": "meta/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "stars": 25353,
-      "forks": 1975,
-      "todayStars": 2776,
-      "url": "https://github.com/meta/astryx",
-      "avatar": ""
-    },
-    {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "language": "Python",
-      "stars": 70521,
-      "forks": 56941,
-      "todayStars": 278,
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "avatar": ""
-    },
-    {
       "name": "GoogleChrome/modern-web-guidance-src",
-      "description": "No description available",
+      "description": "Keep your coding agent up to date with the latest web best practices",
       "language": "TypeScript",
-      "stars": 1929,
-      "forks": 148,
-      "todayStars": 159,
+      "stars": 3358,
+      "forks": 213,
+      "todayStars": 739,
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "avatar": ""
-    },
-    {
-      "name": "shadcn/improve",
-      "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-      "language": "Unknown",
-      "stars": 11071,
-      "forks": 449,
-      "todayStars": 361,
-      "url": "https://github.com/shadcn/improve",
-      "avatar": ""
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "stars": 116077,
-      "forks": 12170,
-      "todayStars": 787,
-      "url": "https://github.com/addyosmani/agent-skills",
-      "avatar": ""
-    },
-    {
-      "name": "vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "stars": 49995,
-      "forks": 3493,
-      "todayStars": 708,
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "avatar": ""
-    },
-    {
-      "name": "we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "stars": 13113,
-      "forks": 964,
-      "todayStars": 1078,
-      "url": "https://github.com/we-promise/sure",
-      "avatar": ""
-    },
-    {
-      "name": "homeassistant-ai/ha-mcp",
-      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "language": "Python",
-      "stars": 7472,
-      "forks": 456,
-      "todayStars": 645,
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
       "avatar": ""
     },
     {
       "name": "openai/codex-security",
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "language": "TypeScript",
-      "stars": 11869,
-      "forks": 945,
-      "todayStars": 52,
+      "stars": 12564,
+      "forks": 981,
+      "todayStars": 643,
       "url": "https://github.com/openai/codex-security",
       "avatar": ""
     },
     {
-      "name": "TheAlgorithms/Java",
-      "description": "All Algorithms implemented in Java",
-      "language": "Java",
-      "stars": 67104,
-      "forks": 21516,
-      "todayStars": 51,
-      "url": "https://github.com/TheAlgorithms/Java",
+      "name": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars": 96038,
+      "forks": 10760,
+      "todayStars": 63,
+      "url": "https://github.com/nvm-sh/nvm",
+      "avatar": ""
+    },
+    {
+      "name": "pookjw/HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "language": "Objective-C",
+      "stars": 1598,
+      "forks": 143,
+      "todayStars": 218,
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "avatar": ""
+    },
+    {
+      "name": "we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars": 14063,
+      "forks": 1058,
+      "todayStars": 967,
+      "url": "https://github.com/we-promise/sure",
+      "avatar": ""
+    },
+    {
+      "name": "QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "language": "TypeScript",
+      "stars": 29905,
+      "forks": 3403,
+      "todayStars": 151,
+      "url": "https://github.com/QwenLM/qwen-code",
+      "avatar": ""
+    },
+    {
+      "name": "ashhart/TensorFold",
+      "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "language": "Zig",
+      "stars": 1989,
+      "forks": 394,
+      "todayStars": 54,
+      "url": "https://github.com/ashhart/TensorFold",
+      "avatar": ""
+    },
+    {
+      "name": "nodejs/node",
+      "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "language": "JavaScript",
+      "stars": 123620,
+      "forks": 38057,
+      "todayStars": 62,
+      "url": "https://github.com/nodejs/node",
+      "avatar": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": 116779,
+      "forks": 12214,
+      "todayStars": 816,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "avatar": ""
+    },
+    {
+      "name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 26749,
+      "forks": 2073,
+      "todayStars": 1830,
+      "url": "https://github.com/meta/astryx",
+      "avatar": ""
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "language": "TypeScript",
+      "stars": 11733,
+      "forks": 1449,
+      "todayStars": 298,
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "avatar": ""
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "stars": 69441,
+      "forks": 10778,
+      "todayStars": 415,
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "avatar": ""
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "stars": 134632,
+      "forks": 25515,
+      "todayStars": 176,
+      "url": "https://github.com/ggml-org/llama.cpp",
       "avatar": ""
     }
   ]
