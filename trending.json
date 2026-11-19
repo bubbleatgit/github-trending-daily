@@ -1,155 +1,195 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "type": "daily",
   "repos": [
     {
-      "name": "elementalsouls/Claude-BugHunter",
-      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 17298,
+      "forks": 1911,
+      "todayStars": 314,
+      "url": "https://github.com/cursor/plugins",
+      "avatar": ""
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars": 9691,
-      "forks": 1388,
-      "todayStars": 1005,
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "stars": 59931,
+      "forks": 5440,
+      "todayStars": 389,
+      "url": "https://github.com/HKUDS/CLI-Anything",
       "avatar": ""
     },
     {
       "name": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 69287,
-      "forks": 6162,
-      "todayStars": 696,
+      "stars": 70193,
+      "forks": 6255,
+      "todayStars": 1059,
       "url": "https://github.com/mvanhorn/last30days-skill",
-      "avatar": ""
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "language": "Go",
-      "stars": 53881,
-      "forks": 4438,
-      "todayStars": 763,
-      "url": "https://github.com/alibaba/open-code-review",
-      "avatar": ""
-    },
-    {
-      "name": "Tencent/LoopForge",
-      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-      "language": "Go",
-      "stars": 3428,
-      "forks": 463,
-      "todayStars": 591,
-      "url": "https://github.com/Tencent/LoopForge",
-      "avatar": ""
-    },
-    {
-      "name": "dream-num/univer",
-      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-      "language": "TypeScript",
-      "stars": 29179,
-      "forks": 2626,
-      "todayStars": 1774,
-      "url": "https://github.com/dream-num/univer",
       "avatar": ""
     },
     {
       "name": "getarcaneapp/arcane",
       "description": "Modern Docker Management, Designed for Everyone",
       "language": "Go",
-      "stars": 9427,
-      "forks": 517,
-      "todayStars": 618,
+      "stars": 9895,
+      "forks": 568,
+      "todayStars": 547,
       "url": "https://github.com/getarcaneapp/arcane",
       "avatar": ""
     },
     {
-      "name": "google-labs-code/stitch-skills",
-      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "language": "TypeScript",
-      "stars": 10179,
-      "forks": 1335,
-      "todayStars": 350,
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "avatar": ""
-    },
-    {
-      "name": "cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "stars": 16963,
-      "forks": 1837,
-      "todayStars": 201,
-      "url": "https://github.com/cursor/plugins",
-      "avatar": ""
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework &amp; software development methodology that works.",
-      "language": "Shell",
-      "stars": 319485,
-      "forks": 28485,
-      "todayStars": 1917,
-      "url": "https://github.com/obra/superpowers",
-      "avatar": ""
-    },
-    {
-      "name": "ag-ui-protocol/ag-ui",
-      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-      "language": "TypeScript",
-      "stars": 20112,
-      "forks": 2072,
-      "todayStars": 1445,
-      "url": "https://github.com/ag-ui-protocol/ag-ui",
-      "avatar": ""
-    },
-    {
-      "name": "backnotprop/plannotator",
-      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "language": "TypeScript",
-      "stars": 13149,
-      "forks": 1316,
-      "todayStars": 691,
-      "url": "https://github.com/backnotprop/plannotator",
-      "avatar": ""
-    },
-    {
-      "name": "sveltejs/svelte",
-      "description": "web development for the rest of us",
-      "language": "JavaScript",
-      "stars": 89656,
-      "forks": 6241,
-      "todayStars": 477,
-      "url": "https://github.com/sveltejs/svelte",
-      "avatar": ""
-    },
-    {
-      "name": "affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars": 305715,
-      "forks": 44995,
-      "todayStars": 883,
-      "url": "https://github.com/affaan-m/ECC",
-      "avatar": ""
-    },
-    {
-      "name": "jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "name": "NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
       "language": "Python",
-      "stars": 66162,
-      "forks": 8682,
-      "todayStars": 192,
-      "url": "https://github.com/jingyaogong/minimind",
+      "stars": 3830,
+      "forks": 524,
+      "todayStars": 312,
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "avatar": ""
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+      "language": "Shell",
+      "stars": 96176,
+      "forks": 10781,
+      "todayStars": 237,
+      "url": "https://github.com/nvm-sh/nvm",
+      "avatar": ""
+    },
+    {
+      "name": "astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust.",
+      "language": "Rust",
+      "stars": 92284,
+      "forks": 3924,
+      "todayStars": 258,
+      "url": "https://github.com/astral-sh/uv",
       "avatar": ""
     },
     {
       "name": "google-research/paper-orchestra",
       "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "language": "Python",
-      "stars": 3282,
-      "forks": 431,
-      "todayStars": 1072,
+      "stars": 4463,
+      "forks": 551,
+      "todayStars": 1524,
       "url": "https://github.com/google-research/paper-orchestra",
+      "avatar": ""
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": 10470,
+      "forks": 1371,
+      "todayStars": 365,
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "avatar": ""
+    },
+    {
+      "name": "sveltejs/svelte",
+      "description": "web development for the rest of us",
+      "language": "JavaScript",
+      "stars": 89663,
+      "forks": 6209,
+      "todayStars": 692,
+      "url": "https://github.com/sveltejs/svelte",
+      "avatar": ""
+    },
+    {
+      "name": "jquery/jquery",
+      "description": "jQuery JavaScript Library",
+      "language": "JavaScript",
+      "stars": 60036,
+      "forks": 20709,
+      "todayStars": 266,
+      "url": "https://github.com/jquery/jquery",
+      "avatar": ""
+    },
+    {
+      "name": "appwrite/appwrite",
+      "description": "The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "language": "TypeScript",
+      "stars": 58278,
+      "forks": 5885,
+      "todayStars": 232,
+      "url": "https://github.com/appwrite/appwrite",
+      "avatar": ""
+    },
+    {
+      "name": "openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "language": "C++",
+      "stars": 11375,
+      "forks": 3604,
+      "todayStars": 24,
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "avatar": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework &amp; software development methodology that works.",
+      "language": "Shell",
+      "stars": 321438,
+      "forks": 28568,
+      "todayStars": 822,
+      "url": "https://github.com/obra/superpowers",
+      "avatar": ""
+    },
+    {
+      "name": "affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "stars": 306690,
+      "forks": 45150,
+      "todayStars": 1108,
+      "url": "https://github.com/affaan-m/ECC",
+      "avatar": ""
+    },
+    {
+      "name": "DeanChensj/jiangshan-map",
+      "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy &amp; classical poetry routes",
+      "language": "JavaScript",
+      "stars": 8115,
+      "forks": 994,
+      "todayStars": 218,
+      "url": "https://github.com/DeanChensj/jiangshan-map",
+      "avatar": ""
+    },
+    {
+      "name": "n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "stars": 211188,
+      "forks": 61575,
+      "todayStars": 325,
+      "url": "https://github.com/n8n-io/n8n",
+      "avatar": ""
+    },
+    {
+      "name": "solidjs/solid",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "language": "TypeScript",
+      "stars": 36650,
+      "forks": 1186,
+      "todayStars": 40,
+      "url": "https://github.com/solidjs/solid",
+      "avatar": ""
+    },
+    {
+      "name": "punkpeye/awesome-mcp-servers",
+      "description": "A collection of MCP servers.",
+      "language": "Unknown",
+      "stars": 98107,
+      "forks": 20368,
+      "todayStars": 53,
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
       "avatar": ""
     }
   ]
