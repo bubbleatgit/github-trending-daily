@@ -1,0 +1,136 @@
+{
+  "date": "2026-11-23",
+  "type": "weekly",
+  "repos": [
+    {
+      "name": "backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "language": "TypeScript",
+      "stars": 14487,
+      "forks": 1432,
+      "todayStars": 2815,
+      "url": "https://github.com/backnotprop/plannotator",
+      "avatar": ""
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "stars": 11990,
+      "forks": 1477,
+      "todayStars": 2683,
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "avatar": ""
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "language": "TypeScript",
+      "stars": 10270,
+      "forks": 812,
+      "todayStars": 3575,
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "avatar": ""
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "language": "Go",
+      "stars": 55473,
+      "forks": 4609,
+      "todayStars": 3700,
+      "url": "https://github.com/alibaba/open-code-review",
+      "avatar": ""
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": 72885,
+      "forks": 6435,
+      "todayStars": 4731,
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "avatar": ""
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "stars": 58884,
+      "forks": 4919,
+      "todayStars": 2268,
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "avatar": ""
+    },
+    {
+      "name": "tradermonty/claude-trading-skills",
+      "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "language": "Python",
+      "stars": 7823,
+      "forks": 1499,
+      "todayStars": 2616,
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "avatar": ""
+    },
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "language": "TypeScript",
+      "stars": 21241,
+      "forks": 2158,
+      "todayStars": 3620,
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "avatar": ""
+    },
+    {
+      "name": "meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "language": "TypeScript",
+      "stars": 32298,
+      "forks": 2535,
+      "todayStars": 3626,
+      "url": "https://github.com/meta/astryx",
+      "avatar": ""
+    },
+    {
+      "name": "pookjw/HermesEnabler",
+      "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+      "language": "Objective-C",
+      "stars": 2411,
+      "forks": 200,
+      "todayStars": 461,
+      "url": "https://github.com/pookjw/HermesEnabler",
+      "avatar": ""
+    },
+    {
+      "name": "we-promise/sure",
+      "description": "The personal finance app for everyone (by everyone)",
+      "language": "Ruby",
+      "stars": 17383,
+      "forks": 1527,
+      "todayStars": 1771,
+      "url": "https://github.com/we-promise/sure",
+      "avatar": ""
+    },
+    {
+      "name": "dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "language": "TypeScript",
+      "stars": 31313,
+      "forks": 2846,
+      "todayStars": 6436,
+      "url": "https://github.com/dream-num/univer",
+      "avatar": ""
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "language": "Python",
+      "stars": 9837,
+      "forks": 872,
+      "todayStars": 3748,
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "avatar": ""
+    }
+  ]
+}
